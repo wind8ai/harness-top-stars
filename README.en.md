@@ -2,234 +2,267 @@
 
 # harness-top-stars
 
-wind8ai's curated list of top GitHub ⭐ **Agent Harness** repositories.
+wind8ai's curated ranking of top-starred **Agent Harness** repositories on GitHub.
 
-Source: [wind8ai's Harness List](https://github.com/stars/wind8ai/lists/harness) | Updated: 2026-04-10
+Source: [wind8ai's Harness List](https://github.com/stars/wind8ai/lists/harness) | Updated: 2026-04-13
 
 ---
 
 ## Contents
 
-1. [openclaw/openclaw (354k ⭐)](#1-openclawopenclawopenclaw-354k-)
-2. [anomalyco/opencode (141k ⭐)](#2-anomalyco--opencode-141k-)
-3. [anthropics/claude-code (112k ⭐)](#3-anthropicsanthropics--claude-code-112k-)
-4. [shareAI-lab/learn-claude-code (51k ⭐)](#4-shareai-lablearn-claude-code-51k-)
-5. [code-yeongyu/oh-my-openagent (50k ⭐)](#5-code-yeongyuoh-my-openagent-50k-)
-6. [NousResearch/hermes-agent (49k ⭐)](#6-nousresearchhermes-agent-49k-)
-7. [harness/harness (35k ⭐)](#7-harnessharness-35k-)
-8. [ruvnet/ruflo (31k ⭐)](#8-ruvnetruflo-31k-)
-9. [Yeachan-Heo/oh-my-claudecode (27k ⭐)](#9-yeachan-heooh-my-claudecode-27k-)
-10. [e2b-dev/awesome-ai-agents (27k ⭐)](#10-e2b-devawesome-ai-agents-27k-)
-11. [safishamsi/graphify (19k ⭐)](#11-safishamsi--graphify-19k-)
-12. [EleutherAI/lm-evaluation-harness (12k ⭐)](#12-eleutherailm-evaluation-harness-12k-)
-13. [aden-hive/hive (10k ⭐)](#13-aden-hivehive-10k-)
-14. [HKUDS/OpenHarness (8k ⭐)](#14-hkudsopenharness-8k-)
-15. [kevinrgu/autoagent (4k ⭐)](#15-kevinrguautoagent-4k-)
-16. [lintsinghua/claude-code-book (3k ⭐)](#16-lintsinghuaclaude-code-book-3k-)
-17. [revfactory/harness (2k ⭐)](#17-revfactoryharness-2k-)
-18. [matthartman/ghost-pepper (2k ⭐)](#18-matthartmanghost-pepper-2k-)
-19. [bigcode-project/bigcode-evaluation-harness (1k ⭐)](#19-bigcode-projectbigcode-evaluation-harness-1k-)
-20. [ZhangHanDong/harness-engineering-from-cc-to-ai-coding (888 ⭐)](#20-zhanghandongharness-engineering-from-cc-to-ai-coding-888-)
+1. [openclaw/openclaw (356k ⭐)](#1-openclawopenclawopenclaw-356k-)
+2. [affaan-m/everything-claude-code (153k ⭐)](#2-affaan-meverything-claude-code-153k-)
+3. [anomalyco/opencode (142k ⭐)](#3-anomalyco--opencode-142k-)
+4. [anthropics/claude-code (113k ⭐)](#4-anthropicsanthropics--claude-code-113k-)
+5. [NousResearch/hermes-agent (74k ⭐)](#5-nousresearchhermes-agent-74k-)
+6. [garrytan/gstack (71k ⭐)](#6-garrytangstack-71k-)
+7. [shareAI-lab/learn-claude-code (52k ⭐)](#7-shareai-lablearn-claude-code-52k-)
+8. [code-yeongyu/oh-my-openagent (51k ⭐)](#8-code-yeongyuoh-my-openagent-51k-)
+9. [shanraisshan/claude-code-best-practice (40k ⭐)](#9-shanraisshanclaude-code-best-practice-40k-)
+10. [harness/harness (34k ⭐)](#10-harnessharness-34k-)
+11. [ruvnet/ruflo (31k ⭐)](#11-ruvnetruflo-31k-)
+12. [Yeachan-Heo/oh-my-claudecode (28k ⭐)](#12-yeachan-heooh-my-claudecode-28k-)
+13. [e2b-dev/awesome-ai-agents (27k ⭐)](#13-e2b-devawesome-ai-agents-27k-)
+14. [safishamsi/graphify (24k ⭐)](#14-safishamsigraphify-24k-)
+15. [EleutherAI/lm-evaluation-harness (12k ⭐)](#15-eleutherailm-evaluation-harness-12k-)
+16. [aden-hive/hive (10k ⭐)](#16-aden-hivehive-10k-)
+17. [HKUDS/OpenHarness (9.3k ⭐)](#17-hkudsopenharness-93k-)
+18. [kevinrgu/autoagent (4k ⭐)](#18-kevinrguautoagent-4k-)
+19. [lintsinghua/claude-code-book (2.6k ⭐)](#19-lintsinghuaclaude-code-book-26k-)
+20. [revfactory/harness (2.4k ⭐)](#20-revfactoryharness-24k-)
+21. [matthartman/ghost-pepper (2.1k ⭐)](#21-matthartmanghost-pepper-21k-)
+22. [bigcode-project/bigcode-evaluation-harness (1k ⭐)](#22-bigcode-projectbigcode-evaluation-harness-1k-)
+23. [ZhangHanDong/harness-engineering-from-cc-to-ai-coding (997 ⭐)](#23-zhanghandongharness-engineering-from-cc-to-ai-coding-997-)
 
 ---
 
-## 1. openclaw/openclaw (354k ⭐)
+## 1. openclaw/openclaw (356k ⭐)
 
 **🔗** https://github.com/openclaw/openclaw  
-**🍴** Fork 71.5k | **🔄** Updated Apr 10, 2026  
-**👤** OpenClaw official team, leading open-source project in personal AI assistant space
+**🍴** Fork 72k | **🔄** Updated Apr 13, 2026  
+**👤** OpenClaw official team — the leading open-source project in personal AI assistants
 
 > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 ---
 
-## 2. anomalyco / opencode (141k ⭐)
+## 2. affaan-m/everything-claude-code (153k ⭐)
 
-**🔗** https://github.com/anomalyco/opencode  
-**🍴** Fork 15.7k | **🔄** Updated Apr 10, 2026  
-**👤** Anomaly.co team, focused on AI coding tools and developer platforms
+**🔗** https://github.com/affaan-m/everything-claude-code  
+**🍴** Fork 23k | **🔄** Updated Apr 13, 2026  
+**👤** Affaan Mustafa — Winner of Anthropic's hackathon (1st of 100), founding engineer at PMX, the most influential individual developer in the Agent Harness space
 
-> The open source coding agent, terminal-driven intelligent code assistant.
+> Full-stack Agent Harness performance optimization system. Covers Skills, memory, security, and research-first development workflows for Claude Code / Codex / Opencode / Cursor and beyond.
 
 ---
 
-## 3. anthropics/anthropics / claude-code (112k ⭐)
+## 3. anomalyco / opencode (142k ⭐)
+
+**🔗** https://github.com/anomalyco/opencode  
+**🍴** Fork 16k | **🔄** Updated Apr 13, 2026  
+**👤** Anomaly.co team, focused on AI coding tools and developer platforms
+
+> The open source coding agent. Terminal-driven intelligent code assistant.
+
+---
+
+## 4. anthropics/anthropics / claude-code (113k ⭐)
 
 **🔗** https://github.com/anthropics/claude-code  
-**🍴** Fork 18.7k | **🔄** Updated Apr 10, 2026  
-**👤** Anthropic official team, leading AI safety research organization
+**🍴** Fork 18k | **🔄** Updated Apr 13, 2026  
+**👤** Anthropic official team — leading AI safety research organization
 
 > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows.
 
 ---
 
-## 4. shareAI-lab/learn-claude-code (51k ⭐)
-
-**🔗** https://github.com/shareAI-lab/learn-claude-code  
-**🍴** Fork 8.3k | **🔄** Updated Apr 7, 2026  
-**👤** shareAI-Lab, open lab focused on AI tech evangelism and hacker spirit
-
-> Bash is all you need — a nano claude code-like agent harness built from 0 to 1, teaching the essence of Harness.
-
----
-
-## 5. code-yeongyu/oh-my-openagent (50k ⭐)
-
-**🔗** https://github.com/code-yeongyu/oh-my-openagent  
-**🍴** Fork 4k | **🔄** Updated Apr 10, 2026  
-**👤** YeonGyu-Kim, engineer at @sionic-ai, hacker-style independent developer
-
-> omo; the best agent harness — previously oh-my-opencode.
-
----
-
-## 6. NousResearch/hermes-agent (49k ⭐)
+## 5. NousResearch/hermes-agent (74k ⭐)
 
 **🔗** https://github.com/NousResearch/hermes-agent  
-**🍴** Fork 6.3k | **🔄** Updated Apr 10, 2026  
-**👤** Nous Research, renowned open-source AI research organization specializing in LLM fine-tuning and alignment
+**🍴** Fork 9.9k | **🔄** Updated Apr 13, 2026  
+**👤** Nous Research — open-source AI research team, known for the Hermes model series
 
-> The agent that grows with you — Nous Research's flagship agent framework.
+> The agent that grows with you. Python implementation, focused on open-ended agent capability evolution.
 
 ---
 
-## 7. harness/harness (35k ⭐)
+## 6. garrytan/gstack (71k ⭐)
+
+**🔗** https://github.com/garrytan/gstack  
+**🍴** Fork 10k | **🔄** Updated Apr 11, 2026  
+**👤** Garry Tan — CEO of Y Combinator, prominent investor, co-founder of Posterous
+
+> Use Garry Tan's exact Claude Code setup: 23 opinionated tools serving as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA. TypeScript implementation.
+
+---
+
+## 7. shareAI-lab/learn-claude-code (52k ⭐)
+
+**🔗** https://github.com/shareAI-lab/learn-claude-code  
+**🍴** Fork 8.6k | **🔄** Updated Apr 7, 2026  
+**👤** shareAI-Lab — open lab focused on AI tech education and hacker culture
+
+> Bash is all you need — a nano claude code–style Agent Harness built from 0 to 1. Teaches the essence of Harness. TypeScript implementation.
+
+---
+
+## 8. code-yeongyu/oh-my-openagent (51k ⭐)
+
+**🔗** https://github.com/code-yeongyu/oh-my-openagent  
+**🍴** Fork 4.1k | **🔄** Updated Apr 13, 2026  
+**👤** YeonGyu-Kim — engineer at @sionic-ai, hacker-style independent developer
+
+> omo: the best agent harness (formerly oh-my-opencode). TypeScript implementation.
+
+---
+
+## 9. shanraisshan/claude-code-best-practice (40k ⭐)
+
+**🔗** https://github.com/shanraisshan/claude-code-best-practice  
+**🍴** Fork 3.8k | **🔄** Updated Apr 13, 2026  
+**👤** Shan Raisshan — independent developer focused on Claude Code engineering best practices
+
+> Claude Code best practices distilled. practice made claude perfect. HTML implementation.
+
+---
+
+## 10. harness/harness (34k ⭐)
 
 **🔗** https://github.com/harness/harness  
 **🍴** Fork 3k | **🔄** Updated Apr 10, 2026  
-**👤** Harness official, enterprise-grade DevOps platform provider
+**👤** Harness Inc. — well-known enterprise DevOps platform company
 
-> Harness Open Source — end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
+> Harness Open Source: an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. Go implementation.
 
 ---
 
-## 8. ruvnet/ruflo (31k ⭐)
+## 11. ruvnet/ruflo (31k ⭐)
 
 **🔗** https://github.com/ruvnet/ruflo  
-**🍴** Fork 3.5k | **🔄** Updated Apr 8, 2026  
-**👤** rUv, serial entrepreneur focused on AI agent orchestration and enterprise AI infrastructure
+**🍴** Fork 3.5k | **🔄** Updated Apr 11, 2026  
+**👤** ruvnet — active Claude ecosystem builder, focused on multi-agent orchestration platforms
 
-> The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems.
+> The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. TypeScript implementation.
 
 ---
 
-## 9. Yeachan-Heo/oh-my-claudecode (27k ⭐)
+## 12. Yeachan-Heo/oh-my-claudecode (28k ⭐)
 
 **🔗** https://github.com/Yeachan-Heo/oh-my-claudecode  
-**🍴** Fork 2.5k | **🔄** Updated Apr 10, 2026  
-**👤** Bellman, founder of @Layoff-Labs, developer in quantitative trading and AI agent space
+**🍴** Fork 2.6k | **🔄** Updated Apr 13, 2026  
+**👤** YeaChan Heo — Sionic AI engineer, focused on multi-agent team orchestration
 
-> Teams-first multi-agent orchestration for Claude Code, optimized for team collaboration scenarios.
+> Teams-first multi-agent orchestration for Claude Code. TypeScript implementation.
 
 ---
 
-## 10. e2b-dev/awesome-ai-agents (27k ⭐)
+## 13. e2b-dev/awesome-ai-agents (27k ⭐)
 
 **🔗** https://github.com/e2b-dev/awesome-ai-agents  
 **🍴** Fork 2.7k | **🔄** Updated Feb 26, 2025  
-**👤** E2B, pioneer in cloud environments for AI agents, providing secure sandbox execution for agents
+**👤** E2B — AI sandbox infrastructure company, focused on secure code execution isolation
 
-> A curated list of AI autonomous agents, covering mainstream agent frameworks and projects.
+> A curated list of AI autonomous agents.
 
 ---
 
-## 11. safishamsi / graphify (19k ⭐)
+## 14. safishamsi/graphify (24k ⭐)
 
 **🔗** https://github.com/safishamsi/graphify  
-**🍴** Fork 1.9k | **🔄** Updated Apr 10, 2026  
-**👤** Safi, MSc Data Science (Distinction), AI Engineer specializing in knowledge graphs and AI coding tools
+**🍴** Fork 2.6k | **🔄** Updated Apr 13, 2026  
+**👤** Safi Shamsi — independent developer in AI coding assistant skills
 
-> AI coding assistant skill. Turn any folder of code, docs, papers, or images into a queryable knowledge graph.
+> AI coding assistant skill that turns any folder of code, docs, papers, or images into a knowledge graph. Supports Claude Code, Codex, Cursor, Gemini CLI, OpenClaw, and more.
 
 ---
 
-## 12. EleutherAI/lm-evaluation-harness (12k ⭐)
+## 15. EleutherAI/lm-evaluation-harness (12k ⭐)
 
 **🔗** https://github.com/EleutherAI/lm-evaluation-harness  
 **🍴** Fork 3.2k | **🔄** Updated Apr 8, 2026  
-**👤** EleutherAI, renowned open-source AI research collective, creators of GPT-NeoX and the Pile dataset
+**👤** EleutherAI — open-source AI research collective, publishers of GPT-Neo and related models
 
-> A framework for few-shot evaluation of language models — the industry-standard LLM benchmarking tool.
+> A framework for few-shot evaluation of language models. Python implementation, the industry-standard evaluation tool.
 
 ---
 
-## 13. aden-hive/hive (10k ⭐)
+## 16. aden-hive/hive (10k ⭐)
 
 **🔗** https://github.com/aden-hive/hive  
-**🍴** Fork 5.6k | **🔄** Updated Apr 10, 2026  
-**👤** Aden, open-source team focused on production-grade AI agent infrastructure
+**🍴** Fork 5.6k | **🔄** Updated Apr 11, 2026  
+**👤** Aden Hive — team focused on production-grade multi-agent AI systems
 
-> Multi-Agent Harness for Production AI, Python-based, lightweight and extensible.
+> Multi-Agent Harness for Production AI. Python implementation.
 
 ---
 
-## 14. HKUDS/OpenHarness (8k ⭐)
+## 17. HKUDS/OpenHarness (9.3k ⭐)
 
 **🔗** https://github.com/HKUDS/OpenHarness  
-**🍴** Fork 1.5k | **🔄** Updated Apr 10, 2026  
-**👤** Data Intelligence Lab @ HKU, leading AI research group at the University of Hong Kong
+**🍴** Fork 1.6k | **🔄** Updated Apr 13, 2026  
+**👤** HKUDS — HKU Data Science Lab, University of Hong Kong
 
-> Open Agent Harness — an open agent framework from HKU's Data Intelligence Lab.
+> Open Agent Harness with a built-in personal agent — Ohmo! Python implementation.
 
 ---
 
-## 15. kevinrgu/autoagent (4k ⭐)
+## 18. kevinrgu/autoagent (4k ⭐)
 
 **🔗** https://github.com/kevinrgu/autoagent  
-**🍴** Fork 446 | **🔄** Updated Apr 3, 2026  
-**👤** kevin, thirdlayer.inc, independent developer in autonomous agent engineering
+**🍴** Fork 458 | **🔄** Updated Apr 3, 2026  
+**👤** Kevin Rgu — independent researcher in autonomous agent engineering
 
-> Autonomous harness engineering — frontier experiments in agent self-orchestration and automation.
+> Autonomous harness engineering. Python implementation, focused on autonomous agent execution.
 
 ---
 
-## 16. lintsinghua/claude-code-book (3k ⭐)
+## 19. lintsinghua/claude-code-book (2.6k ⭐)
 
 **🔗** https://github.com/lintsinghua/claude-code-book  
-**🍴** Fork 608 | **🔄** Updated Apr 6, 2026  
-**👤** lintsinghua, engineer focused on making bits flow right, specializing in AI agent architecture writing
+**🍴** Fork 622 | **🔄** Updated Apr 6, 2026  
+**👤** lintsinghua — author of AI technical books, focused on Claude Code architecture analysis
 
-> "御舆: Decoding the Agent Harness" — 420,000-word deep dive into Claude Code architecture, 15 chapters from conversation loops to building your own Agent Harness.
+> 《御舆: Decoding Agent Harness》— 420,000-word deep dive into AI Agent Harness architecture, 15 chapters from conversation loops to building your own Agent Harness.
 
 ---
 
-## 17. revfactory/harness (2k ⭐)
+## 20. revfactory/harness (2.4k ⭐)
 
 **🔗** https://github.com/revfactory/harness  
-**🍴** Fork 326 | **🔄** Updated Apr 8, 2026  
-**👤** Minho Hwang, engineer at @kakao, focused on AI agent system design
+**🍴** Fork 351 | **🔄** Updated Apr 8, 2026  
+**👤** revfactory — independent developer focused on domain-specific agent team design
 
-> A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+> A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. HTML implementation.
 
 ---
 
-## 18. matthartman/ghost-pepper (2k ⭐)
+## 21. matthartman/ghost-pepper (2.1k ⭐)
 
 **🔗** https://github.com/matthartman/ghost-pepper  
-**🍴** Fork 91 | **🔄** Updated Apr 9, 2026  
-**👤** Matt Hartman, Managing Partner at Factorial Capital, Silicon Valley investor and independent developer
+**🍴** Fork 106 | **🔄** Updated Apr 10, 2026  
+**👤** Matt Hartman — independent macOS developer focused on local AI voice tools
 
-> Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM cleanup. Hold Control to record, release to transcribe and paste.
+> Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM. Hold Control to record, release to transcribe and paste. Swift implementation.
 
 ---
 
-## 19. bigcode-project/bigcode-evaluation-harness (1k ⭐)
+## 22. bigcode-project/bigcode-evaluation-harness (1k ⭐)
 
 **🔗** https://github.com/bigcode-project/bigcode-evaluation-harness  
 **🍴** Fork 258 | **🔄** Updated Jul 22, 2025  
-**👤** BigCode Project, open scientific collaboration led by Hugging Face and ServiceNow
+**👤** BigCode Project — joint initiative by HuggingFace & ServiceNow for open-source code models
 
-> A framework for the evaluation of autoregressive code generation language models — the standard benchmarking tool for code models.
+> A framework for the evaluation of autoregressive code generation language models. Python implementation.
 
 ---
 
-## 20. ZhangHanDong/harness-engineering-from-cc-to-ai-coding (888 ⭐)
+## 23. ZhangHanDong/harness-engineering-from-cc-to-ai-coding (997 ⭐)
 
 **🔗** https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding  
-**🍴** Fork 169 | **🔄** Updated Apr 10, 2026  
-**👤** Alex, Engineer / Architect / Independent Consultant / Technical Writer
+**🍴** Fork 183 | **🔄** Updated Apr 10, 2026  
+**👤** ZhangHanDong — prominent Rust community contributor, researcher in AI Coding engineering practices
 
-> Harness Engineering — from Claude Code source code to AI Coding, a systematic guide to agent harness engineering practice.
+> Harness Engineering from Claude Code source code to AI Coding. HTML implementation, in-depth analysis of Harness architecture principles.
 
 ---
 
@@ -237,19 +270,37 @@ Source: [wind8ai's Harness List](https://github.com/stars/wind8ai/lists/harness)
 
 | # | Project | Link | Stars | Description |
 |---|---------|------|-------|-------------|
-| 1 | FlowElement-ai/m_flow | https://github.com/FlowElement-ai/m_flow | 218 ⭐ | Memory engine focused on reasoning and association, Python implementation |
-| 2 | wind8ai/llm-dualoop | https://github.com/wind8ai/llm-dualoop | 5 ⭐ | Feedback loop methodology × LLM Wiki dual-loop working method |
-| 3 | Caldis/frameworks | https://github.com/Caldis/frameworks | 4 ⭐ | Curated software design frameworks for engineers, architects, and AI agents |
+| 1 | wind8ai/llm-dualoop | https://github.com/wind8ai/llm-dualoop | 5 ⭐ | Feedback Loop × LLM Wiki dual-loop working methodology |
 
 ---
 
-## Inclusion Rules
-
-- Source: Repositories starred by wind8ai under the `Harness` list on GitHub
-- Criteria: Star ≥ 500 (unless of special significance)
-- Official list cap: 24, sorted by stars descending
-- Candidate pool cap: 18
+*Curated by wind8 | 2026-04-13*
 
 ---
 
-*Curated & maintained by wind8 | 2026-04-10*
+## Curation Rules
+
+### Source
+- Only repos starred by wind8ai in the `Harness` list
+- URL: https://github.com/stars/wind8ai/lists/harness
+- **Note**: List is paginated — all pages must be checked
+
+### Inclusion Criteria
+1. Starred by wind8ai — star = include, no secondary judgment
+2. Public repository
+3. Star ≥ 500 (unless exceptionally representative)
+4. Top 24 by star count for the main list; others go to candidate pool
+
+### Sorting
+- Descending by GitHub star count
+- Stars shown in magnitude format (356k, 153k...)
+
+### Candidate Pool
+- Max **18 entries** (24 main + 18 candidates = 42 total)
+- When full, lowest-starred entry is dropped
+
+### Exclusion
+- Note `❌ [YYYY-MM-DD] reason` next to removed entries
+
+### Not Included
+- Repos with Star < 500 (unless exceptionally representative)
