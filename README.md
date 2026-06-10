@@ -4,40 +4,40 @@
 
 wind8ai 精选 GitHub 高星 **Agent Harness** 仓库排行榜。
 
-来源：[wind8ai 的 Harness 列表](https://github.com/stars/wind8ai/lists/harness) | 抓取时间：2026-06-03
+来源：[wind8ai 的 Harness 列表](https://github.com/stars/wind8ai/lists/harness) | 抓取时间：2026-06-10
 
 ---
 
 ## Contents
 
-1. [openclaw/openclaw (376k ⭐)](#1-openclawopenclaw-376k-)
-2. [obra/superpowers (217k ⭐)](#2-obrasuperpowers-217k-)
-3. [affaan-m/ECC (205k ⭐)](#3-affaan-mecc-205k-)
-4. [NousResearch/hermes-agent (178k ⭐)](#4-nousresearchhermes-agent-178k-)
-5. [anomalyco/opencode (169k ⭐)](#5-anomalycoopencode-169k-)
-6. [anthropics/claude-code (130k ⭐)](#6-anthropicsclaude-code-130k-)
-7. [github/spec-kit (108k ⭐)](#7-githubspec-kit-108k-)
-8. [msitarzewski/agency-agents (107k ⭐)](#8-msitarzewskiagency-agents-107k-)
-9. [garrytan/gstack (107k ⭐)](#9-garrytangstack-107k-)
+1. [openclaw/openclaw (377k ⭐)](#1-openclawopenclaw-377k-)
+2. [obra/superpowers (222k ⭐)](#2-obrasuperpowers-222k-)
+3. [affaan-m/ECC (212k ⭐)](#3-affaan-mecc-212k-)
+4. [NousResearch/hermes-agent (189k ⭐)](#4-nousresearchhermes-agent-189k-)
+5. [anomalyco/opencode (172k ⭐)](#5-anomalycoopencode-172k-)
+6. [anthropics/claude-code (131k ⭐)](#6-anthropicsclaude-code-131k-)
+7. [github/spec-kit (110k ⭐)](#7-githubspec-kit-110k-)
+8. [msitarzewski/agency-agents (109k ⭐)](#8-msitarzewskiagency-agents-109k-)
+9. [garrytan/gstack (108k ⭐)](#9-garrytangstack-108k-)
 10. [bytedance/deer-flow (70k ⭐)](#10-bytedancedeer-flow-70k-)
-11. [shareAI-lab/learn-claude-code (64k ⭐)](#11-shareai-lablearn-claude-code-64k-)
+11. [shareAI-lab/learn-claude-code (65k ⭐)](#11-shareai-lablearn-claude-code-65k-)
 12. [gsd-build/get-shit-done (64k ⭐)](#12-gsd-buildget-shit-done-64k-)
 13. [code-yeongyu/oh-my-openagent (61k ⭐)](#13-code-yeongyuoh-my-openagent-61k-)
-14. [earendil-works/pi (59k ⭐)](#14-earendil-workspi-59k-)
+14. [earendil-works/pi (61k ⭐)](#14-earendil-workspi-61k-)
 15. [ruvnet/ruflo (58k ⭐)](#15-ruvnetruflo-58k-)
-16. [shanraisshan/claude-code-best-practice (56k ⭐)](#16-shanraisshanclaude-code-best-practice-56k-)
+16. [shanraisshan/claude-code-best-practice (57k ⭐)](#16-shanraisshanclaude-code-best-practice-57k-)
 17. [Fission-AI/OpenSpec (53k ⭐)](#17-fission-aiopenspec-53k-)
-18. [bmad-code-org/BMAD-METHOD (49k ⭐)](#18-bmad-code-orgbmad-method-49k-)
+18. [bmad-code-org/BMAD-METHOD (48k ⭐)](#18-bmad-code-orgbmad-method-48k-)
 19. [harness/harness (36k ⭐)](#19-harnessharness-36k-)
 20. [Yeachan-Heo/oh-my-claudecode (36k ⭐)](#20-yeachan-heooh-my-claudecode-36k-)
-21. [conductor-oss/conductor (32k ⭐)](#21-conductor-ossconductor-32k-)
+21. [conductor-oss/conductor (31k ⭐)](#21-conductor-ossconductor-31k-)
 22. [tinyhumansai/openhuman (31k ⭐)](#22-tinyhumansaiopenhuman-31k-)
 23. [e2b-dev/awesome-ai-agents (28k ⭐)](#23-e2b-devawesome-ai-agents-28k-)
-24. [snarktank/ralph (20k ⭐)](#24-snarktankralph-20k-)
+24. [esengine/DeepSeek-Reasonix (20k ⭐)](#24-esenginedeepseek-reasonix-20k-)
 
 ---
 
-## 1. openclaw/openclaw (376k ⭐)
+## 1. openclaw/openclaw (377k ⭐)
 
 **🔗** https://github.com/openclaw/openclaw  
 **🍴** Fork 79k | **🔄** Updated 2026-06-03  
@@ -47,7 +47,7 @@ wind8ai 精选 GitHub 高星 **Agent Harness** 仓库排行榜。
 
 ---
 
-## 2. obra/superpowers (217k ⭐)
+## 2. obra/superpowers (222k ⭐)
 
 **🔗** https://github.com/obra/superpowers  
 **🍴** Fork 19k | **🔄** Updated 2026-06-03  
@@ -57,27 +57,27 @@ wind8ai 精选 GitHub 高星 **Agent Harness** 仓库排行榜。
 
 ---
 
-## 3. affaan-m/ECC (205k ⭐)
+## 3. affaan-m/ECC (212k ⭐)
 
 **🔗** https://github.com/affaan-m/ECC  
-**🍴** Fork 31k | **🔄** Updated 2026-06-03  
+**🍴** Fork 32k | **🔄** Updated 2026-06-03  
 **👤** Affaan Mustafa — Anthropic 黑客松冠军（100人 1st）、PMX 创始工程师，Agent Harness 领域最具影响力的个人开发者
 
 > Agent Harness 性能优化全栈系统。涵盖 Skills、本能、记忆、安全、研究优先开发流程，为 Claude Code / Codex / Opencode / Cursor 等 agent 提供完整的性能优化方法论。
 
 ---
 
-## 4. NousResearch/hermes-agent (178k ⭐)
+## 4. NousResearch/hermes-agent (189k ⭐)
 
 **🔗** https://github.com/NousResearch/hermes-agent  
-**🍴** Fork 31k | **🔄** Updated 2026-06-03  
+**🍴** Fork 32k | **🔄** Updated 2026-06-03  
 **👤** Nous Research — 开源 AI 研究团队，以 Hermes 系列模型著称
 
 > 与你共同成长的 Agent。Python 实现，专注开放式 Agent 能力进化。
 
 ---
 
-## 5. anomalyco/opencode (169k ⭐)
+## 5. anomalyco/opencode (172k ⭐)
 
 **🔗** https://github.com/anomalyco/opencode  
 **🍴** Fork 20k | **🔄** Updated 2026-06-03  
@@ -87,7 +87,7 @@ wind8ai 精选 GitHub 高星 **Agent Harness** 仓库排行榜。
 
 ---
 
-## 6. anthropics/claude-code (130k ⭐)
+## 6. anthropics/claude-code (131k ⭐)
 
 **🔗** https://github.com/anthropics/claude-code  
 **🍴** Fork 21k | **🔄** Updated 2026-06-03  
@@ -97,27 +97,27 @@ wind8ai 精选 GitHub 高星 **Agent Harness** 仓库排行榜。
 
 ---
 
-## 7. msitarzewski/agency-agents (107k ⭐)
-
-**🔗** https://github.com/msitarzewski/agency-agents  
-**🍴** Fork 18k | **🔄** Updated 2026-06-02  
-**👤** Michael Sitarzewski — 30+ 年经验的 Builder，Techstars 校友，连续创业者
-
-> 触手可及的完整 AI 代理公司。从前端开发到 Reddit 社区运营，从创意注入到现实检验——每个 Agent 都是拥有个性、流程和可验证交付物的专业专家。
-
----
-
-## 8. github/spec-kit (108k ⭐)
+## 7. github/spec-kit (110k ⭐)
 
 **🔗** https://github.com/github/spec-kit  
-**🍴** Fork 9.5k | **🔄** Updated 2026-06-02  
+**🍴** Fork 9.8k | **🔄** Updated 2026-06-02  
 **👤** GitHub 官方团队出品，全球最大代码托管与开发者协作平台
 
 > 💫 Spec-Driven Development 入门工具包。帮助开发者快速上手 spec 驱动开发方法论，Python 实现。
 
 ---
 
-## 9. garrytan/gstack (107k ⭐)
+## 8. msitarzewski/agency-agents (109k ⭐)
+
+**🔗** https://github.com/msitarzewski/agency-agents  
+**🍴** Fork 17k | **🔄** Updated 2026-06-02  
+**👤** Michael Sitarzewski — 30+ 年经验的 Builder，Techstars 校友，连续创业者
+
+> 触手可及的完整 AI 代理公司。从前端开发到 Reddit 社区运营，从创意注入到现实检验——每个 Agent 都是拥有个性、流程和可验证交付物的专业专家。
+
+---
+
+## 9. garrytan/gstack (108k ⭐)
 
 **🔗** https://github.com/garrytan/gstack  
 **🍴** Fork 16k | **🔄** Updated 2026-06-03  
@@ -130,17 +130,17 @@ wind8ai 精选 GitHub 高星 **Agent Harness** 仓库排行榜。
 ## 10. bytedance/deer-flow (70k ⭐)
 
 **🔗** https://github.com/bytedance/deer-flow  
-**🍴** Fork 9.5k | **🔄** Updated 2026-06-03  
+**🍴** Fork 9.6k | **🔄** Updated 2026-06-03  
 **👤** ByteDance — 字节跳动，TikTok/抖音母公司，全球领先的互联网科技公司
 
 > 开源长周期 SuperAgent Harness，集研究、编码、创作于一体。内置沙箱、记忆、工具、Skills 和子 agent 协调，支持多层级 agentic 工作负载。
 
 ---
 
-## 11. shareAI-lab/learn-claude-code (64k ⭐)
+## 11. shareAI-lab/learn-claude-code (65k ⭐)
 
 **🔗** https://github.com/shareAI-lab/learn-claude-code  
-**🍴** Fork 11k | **🔄** Updated 2026-06-02  
+**🍴** Fork 10k | **🔄** Updated 2026-06-02  
 **👤** shareAI-Lab，专注 AI 技术传播与黑客精神的开放实验室
 
 > Bash is all you need —— 从零到一构建的 nano claude code 式 Agent Harness，教你搞懂 Harness 的本质。TypeScript 实现。
@@ -150,7 +150,7 @@ wind8ai 精选 GitHub 高星 **Agent Harness** 仓库排行榜。
 ## 12. gsd-build/get-shit-done (64k ⭐)
 
 **🔗** https://github.com/gsd-build/get-shit-done  
-**🍴** Fork 5.4k | **🔄** Updated 2026-05-31  
+**🍴** Fork 5.5k | **🔄** Updated 2026-05-31  
 **👤** TACHES (gsd-build) — 专注 Claude Code 开发者效率工具的产品团队
 
 > 轻量级 meta-prompting、上下文工程和 spec 驱动开发系统，为 Claude Code 提供结构化 prompting 和 CLAUDE.md 配置方案。
@@ -160,17 +160,17 @@ wind8ai 精选 GitHub 高星 **Agent Harness** 仓库排行榜。
 ## 13. code-yeongyu/oh-my-openagent (61k ⭐)
 
 **🔗** https://github.com/code-yeongyu/oh-my-openagent  
-**🍴** Fork 4.9k | **🔄** Updated 2026-06-03  
+**🍴** Fork 5k | **🔄** Updated 2026-06-03  
 **👤** YeonGyu-Kim，@sionic-ai 工程师，黑客风格的独立开发者
 
 > omo：最好的 Agent Harness（前身为 oh-my-opencode）。TypeScript 实现。
 
 ---
 
-## 14. earendil-works/pi (59k ⭐)
+## 14. earendil-works/pi (61k ⭐)
 
 **🔗** https://github.com/earendil-works/pi  
-**🍴** Fork 7.1k | **🔄** Updated 2026-06-03  
+**🍴** Fork 7.4k | **🔄** Updated 2026-06-03  
 **👤** earendil-works — AI Agent 工具链开发团队
 
 > AI agent 工具包：coding agent CLI、统一 LLM API、TUI & Web UI 库、Slack bot、vLLM pods。TypeScript 实现。
@@ -180,17 +180,17 @@ wind8ai 精选 GitHub 高星 **Agent Harness** 仓库排行榜。
 ## 15. ruvnet/ruflo (58k ⭐)
 
 **🔗** https://github.com/ruvnet/ruflo  
-**🍴** Fork 6.6k | **🔄** Updated 2026-06-03  
+**🍴** Fork 6.7k | **🔄** Updated 2026-06-03  
 **👤** ruvnet — Claude 生态活跃建设者，专注多 Agent 编排平台
 
 > Claude 的领先 Agent 编排平台。部署智能多 Agent 集群、协调自主工作流、构建对话式 AI 系统。TypeScript 实现。
 
 ---
 
-## 16. shanraisshan/claude-code-best-practice (56k ⭐)
+## 16. shanraisshan/claude-code-best-practice (57k ⭐)
 
 **🔗** https://github.com/shanraisshan/claude-code-best-practice  
-**🍴** Fork 5.6k | **🔄** Updated 2026-06-03  
+**🍴** Fork 5.7k | **🔄** Updated 2026-06-03  
 **👤** Shan Raisshan — 独立开发者，专注 Claude Code 工程实践整理
 
 > 从 vibe coding 到 agentic engineering —— practice makes claude perfect. HTML 实现。
@@ -200,17 +200,17 @@ wind8ai 精选 GitHub 高星 **Agent Harness** 仓库排行榜。
 ## 17. Fission-AI/OpenSpec (53k ⭐)
 
 **🔗** https://github.com/Fission-AI/OpenSpec  
-**🍴** Fork 3.7k | **🔄** Updated 2026-06-03  
+**🍴** Fork 3.8k | **🔄** Updated 2026-06-03  
 **👤** Fission AI — 专注 Spec 驱动开发（SDD）方法论的 AI 创业公司
 
 > 面向 AI coding assistant 的 Spec-Driven Development（SDD）框架。TypeScript 实现。
 
 ---
 
-## 18. bmad-code-org/BMAD-METHOD (49k ⭐)
+## 18. bmad-code-org/BMAD-METHOD (48k ⭐)
 
 **🔗** https://github.com/bmad-code-org/BMAD-METHOD  
-**🍴** Fork 5.6k | **🔄** Updated 2026-06-03  
+**🍴** Fork 5.7k | **🔄** Updated 2026-06-03  
 **👤** BMAD 团队 — 专注 AI 驱动敏捷开发方法论的开源组织
 
 > Breakthrough Method for Agile AI Driven Development。AI 驱动敏捷开发的突破性方法论，JavaScript 实现。
@@ -237,7 +237,7 @@ wind8ai 精选 GitHub 高星 **Agent Harness** 仓库排行榜。
 
 ---
 
-## 21. conductor-oss/conductor (32k ⭐)
+## 21. conductor-oss/conductor (31k ⭐)
 
 **🔗** https://github.com/conductor-oss/conductor  
 **🍴** Fork 914 | **🔄** Updated 2026-06-03  
@@ -250,7 +250,7 @@ wind8ai 精选 GitHub 高星 **Agent Harness** 仓库排行榜。
 ## 22. tinyhumansai/openhuman (31k ⭐)
 
 **🔗** https://github.com/tinyhumansai/openhuman  
-**🍴** Fork 2.9k | **🔄** Updated 2026-06-03  
+**🍴** Fork 3k | **🔄** Updated 2026-06-03  
 **👤** Tiny Humans AI — 致力于为每个人构建 AI 驱动的数字分身
 
 > 你的个人 AI 超级智能。私密、简洁、极其强大。
@@ -260,20 +260,22 @@ wind8ai 精选 GitHub 高星 **Agent Harness** 仓库排行榜。
 ## 23. e2b-dev/awesome-ai-agents (28k ⭐)
 
 **🔗** https://github.com/e2b-dev/awesome-ai-agents  
-**🍴** Fork 3.0k | **🔄** Updated 2025-02-26  
+**🍴** Fork 3k | **🔄** Updated 2025-02-26  
 **👤** E2B — AI 沙箱执行基础设施公司，专注代码执行安全隔离
 
 > AI 自主 Agent 精选列表。全面收录各类 AI Agent 项目。
 
 ---
 
-## 24. snarktank/ralph (20k ⭐)
+## 24. esengine/DeepSeek-Reasonix (20k ⭐)
 
-**🔗** https://github.com/snarktank/ralph  
-**🍴** Fork 2.0k | **🔄** Updated 2026-02-02  
-**👤** Snarktank — AI 自主循环执行 Agent 开发团队
+**🔗** https://github.com/esengine/DeepSeek-Reasonix  
+**🍴** Fork 1.2k | **🔄** Updated 2026-06-10  
+**👤** esengine — DeepSeek 生态开发者，专注 AI coding agent 工程化
 
-> Ralph：自主 AI agent 循环，反复执行直到 PRD 中所有条目完成。TypeScript 实现。
+> DeepSeek 原生 AI coding agent，围绕 prefix-cache 稳定性工程化。
+
+---
 
 ---
 
@@ -281,26 +283,26 @@ wind8ai 精选 GitHub 高星 **Agent Harness** 仓库排行榜。
 
 | # | 项目 | 链接 | 星数 | 说明 |
 |---|------|------|------|------|
-| 1 | Kilo-Org/kilocode | https://github.com/Kilo-Org/kilocode | 20k ⭐ | 全能型 Agentic 工程平台，最受欢迎的开源编码 Agent |
-| 2 | esengine/DeepSeek-Reasonix | https://github.com/esengine/DeepSeek-Reasonix | 17k ⭐ | DeepSeek 原生 AI coding agent，围绕 prefix-cache 稳定性工程化 |
+| 1 | snarktank/ralph | https://github.com/snarktank/ralph | 20k ⭐ | 元 Agent 编排框架，Rust 实现 |
+| 2 | Kilo-Org/kilocode | https://github.com/Kilo-Org/kilocode | 19k ⭐ | 全能型 Agentic 工程平台，最受欢迎的开源编码 Agent |
 | 3 | jnMetaCode/agency-agents-zh | https://github.com/jnMetaCode/agency-agents-zh | 14k ⭐ | 211 个即插即用的 AI 专家角色，含 46 个中国市场原创智能体 |
 | 4 | HKUDS/OpenHarness | https://github.com/HKUDS/OpenHarness | 13k ⭐ | 开放 Agent Harness，内置个人 Agent Ohmo！ |
-| 5 | EleutherAI/lm-evaluation-harness | https://github.com/EleutherAI/lm-evaluation-harness | 13k ⭐ | 语言模型 few-shot 评估框架，业界标准 |
+| 5 | EleutherAI/lm-evaluation-harness | https://github.com/EleutherAI/lm-evaluation-harness | 12k ⭐ | 语言模型 few-shot 评估框架，业界标准 |
 | 6 | lsdefine/GenericAgent | https://github.com/lsdefine/GenericAgent | 12k ⭐ | 自进化 Agent：从 3.3K 行种子代码生长技能树，token 消耗降低 6 倍 |
-| 7 | chenhg5/cc-connect | https://github.com/chenhg5/cc-connect | 11k ⭐ | 将本地 AI coding agent 桥接到飞书/钉钉/Slack/Telegram 等消息平台 |
+| 7 | chenhg5/cc-connect | https://github.com/chenhg5/cc-connect | 12k ⭐ | 将本地 AI coding agent 桥接到飞书/钉钉/Slack/Telegram 等消息平台 |
 | 8 | aden-hive/hive | https://github.com/aden-hive/hive | 10k ⭐ | 面向生产环境的多 Agent Harness，Python 实现 |
-| 9 | EvoMap/evolver | https://github.com/EvoMap/evolver | 7.6k ⭐ | GEP 驱动的 AI Agent 自进化引擎 |
-| 10 | holaboss-ai/holaOS | https://github.com/holaboss-ai/holaOS | 5.5k ⭐ | 你的超级工作 Agent，本地优先，快速学习你的工作上下文 |
-| 11 | revfactory/harness | https://github.com/revfactory/harness | 5.6k ⭐ | 元 Skill：设计领域特定 Agent 团队 |
+| 9 | EvoMap/evolver | https://github.com/EvoMap/evolver | 8.5k ⭐ | GEP 驱动的 AI Agent 自进化引擎 |
+| 10 | revfactory/harness | https://github.com/revfactory/harness | 6.7k ⭐ | 元 Skill：设计领域特定 Agent 团队 |
+| 11 | holaboss-ai/holaOS | https://github.com/holaboss-ai/holaOS | 5.5k ⭐ | 你的超级工作 Agent，本地优先，快速学习你的工作上下文 |
 | 12 | kevinrgu/autoagent | https://github.com/kevinrgu/autoagent | 4.5k ⭐ | 自主 Harness 工程，Python 实现 |
-| 13 | lintsinghua/claude-code-book | https://github.com/lintsinghua/claude-code-book | 3.5k ⭐ | 《御舆：解码 Agent Harness》42万字深度拆解 |
-| 14 | chaitin/MonkeyCode | https://github.com/chaitin/MonkeyCode | 3.2k ⭐ | AI 开发平台，内置云端开发环境，支持顶尖大模型 |
-| 15 | cosmicstack-labs/mercury-agent | https://github.com/cosmicstack-labs/mercury-agent | 2.5k ⭐ | Soul 驱动的 AI Agent，权限加固 + token 预算 + 多通道接入 |
+| 13 | lintsinghua/claude-code-book | https://github.com/lintsinghua/claude-code-book | 3.6k ⭐ | 《御舆：解码 Agent Harness》42万字深度拆解 |
+| 14 | chaitin/MonkeyCode | https://github.com/chaitin/MonkeyCode | 3.3k ⭐ | AI 开发平台，内置云端开发环境，支持顶尖大模型 |
+| 15 | cosmicstack-labs/mercury-agent | https://github.com/cosmicstack-labs/mercury-agent | 2.6k ⭐ | Soul 驱动的 AI Agent，权限加固 + token 预算 + 多通道接入 |
 | 16 | wquguru/harness-books | https://github.com/wquguru/harness-books | 2.4k ⭐ | Harness 相关书籍与资料集合 |
-| 17 | AMAP-ML/SkillClaw | https://github.com/AMAP-ML/SkillClaw | 1.6k ⭐ | 让 Skills 通过 Agentic Evolver 集体进化 |
+| 17 | AMAP-ML/SkillClaw | https://github.com/AMAP-ML/SkillClaw | 1.8k ⭐ | 让 Skills 通过 Agentic Evolver 集体进化 |
 | 18 | ZhangHanDong/harness-engineering-from-cc-to-ai-coding | https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding | 1.4k ⭐ | 从 Claude Code 源码到 AI Coding 的 Harness 工程 |
 | 19 | bigcode-project/bigcode-evaluation-harness | https://github.com/bigcode-project/bigcode-evaluation-harness | 1k ⭐ | 自回归代码生成语言模型评估框架 |
-| 20 | sipyourdrink-ltd/bernstein | https://github.com/sipyourdrink-ltd/bernstein | 541 ⭐ | 审计级多 Agent 编排，HMAC 链式审计日志 |
+| 20 | sipyourdrink-ltd/bernstein | https://github.com/sipyourdrink-ltd/bernstein | 566 ⭐ | 审计级多 Agent 编排，HMAC 链式审计日志 |
 
 ---
 
