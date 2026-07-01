@@ -62,7 +62,7 @@
 
 > 你自己的个人 AI 助手。支持任意操作系统和平台，龙虾之道。🦞
 
-**Capabilities:** 🦞 Harness 运行时 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🤖 Agent 集成
 
 ---
 
@@ -74,7 +74,7 @@
 
 > Agentic Skills 框架与软件开发方法论。通过 spec 驱动开发、TDD 和子 agent 任务编排，让 AI 编程 agent 自主高效工作数小时。
 
-**Capabilities:** 🔀 多 Agent 编排 · 📋 Spec 驱动 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 📋 Spec 驱动 · 🤖 Agent 集成
 
 ---
 
@@ -86,7 +86,7 @@
 
 > Agent Harness 性能优化全栈系统。涵盖 Skills、本能、记忆、安全、研究优先开发流程，为 Claude Code / Codex / Opencode / Cursor 等 agent 提供完整的性能优化方法论。
 
-**Capabilities:** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -98,7 +98,7 @@
 
 > 与你共同成长的 Agent。Python 实现，专注开放式 Agent 能力进化。
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -110,7 +110,7 @@
 
 > 开源编码 Agent，终端驱动的智能代码助手。
 
-**Capabilities:** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -122,7 +122,7 @@
 
 > Claude Code 是运行于终端的 Agentic 编码工具，理解代码库并通过执行常规任务、解释复杂代码、处理 git 工作流等方式加速开发。
 
-**Capabilities:** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -134,7 +134,7 @@
 
 > 触手可及的完整 AI 代理公司。从前端开发到 Reddit 社区运营，从创意注入到现实检验——每个 Agent 都是拥有个性、流程和可验证交付物的专业专家。
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -146,7 +146,7 @@
 
 > Garry Tan 的 Claude Code 完整配置：23 个意见鲜明的工具，分别扮演 CEO、设计师、工程经理、发布经理、文档工程师和 QA 角色。TypeScript 实现。
 
-**Capabilities:** 🤖 Agent 集成
+**Capabilities：** 🤖 Agent 集成
 
 ---
 
@@ -158,7 +158,7 @@
 
 > 💫 Spec-Driven Development 入门工具包。帮助开发者快速上手 spec 驱动开发方法论，Python 实现。
 
-**Capabilities:** 📋 Spec 驱动 · 🤖 Agent 集成
+**Capabilities：** 📋 Spec 驱动 · 🤖 Agent 集成
 
 ---
 
@@ -170,7 +170,7 @@
 
 > 开源长周期 SuperAgent Harness，集研究、编码、创作于一体。内置沙箱、记忆、工具、Skills 和子 agent 协调，支持多层级 agentic 工作负载。
 
-**Capabilities:** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -182,7 +182,7 @@
 
 > Bash is all you need —— 从零到一构建的 nano claude code 式 Agent Harness，教你搞懂 Harness 的本质。TypeScript 实现。
 
-**Capabilities:** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -194,7 +194,7 @@
 
 > AI agent 工具包：coding agent CLI、统一 LLM API、TUI & Web UI 库、Slack bot、vLLM pods。TypeScript 实现。
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -206,7 +206,7 @@
 
 > omo：最好的 Agent Harness（前身为 oh-my-opencode）。TypeScript 实现。
 
-**Capabilities:** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -218,7 +218,7 @@
 
 > Claude 的领先 Agent 编排平台。部署智能多 Agent 集群、协调自主工作流、构建对话式 AI 系统。TypeScript 实现。
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -230,7 +230,7 @@
 
 > 从 vibe coding 到 agentic engineering —— practice makes claude perfect. HTML 实现。
 
-**Capabilities:** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -242,7 +242,7 @@
 
 > 面向 AI coding assistant 的 Spec-Driven Development（SDD）框架。TypeScript 实现。
 
-**Capabilities:** 📋 Spec 驱动 · 🤖 Agent 集成
+**Capabilities：** 📋 Spec 驱动 · 🤖 Agent 集成
 
 ---
 
@@ -254,7 +254,7 @@
 
 > Breakthrough Method for Agile AI Driven Development。AI 驱动敏捷开发的突破性方法论，JavaScript 实现。
 
-**Capabilities:** 📋 Spec 驱动 · 🤖 Agent 集成
+**Capabilities：** 📋 Spec 驱动 · 🤖 Agent 集成
 
 ---
 
@@ -266,7 +266,7 @@
 
 > 面向团队的 Claude Code 多 Agent 编排系统。TypeScript 实现，专注 Claude Code 的团队级多 agent 协同。
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -278,7 +278,7 @@
 
 > Harness 开源版：端到端开发者平台，集成代码管理、CI/CD 流水线、托管开发环境和制品仓库。Go 实现。
 
-**Capabilities:** 🦞 Harness 运行时 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🤖 Agent 集成
 
 ---
 
@@ -290,7 +290,7 @@
 
 > 你的个人 AI 超级智能。私密、简洁、极其强大。
 
-**Capabilities:** 🤖 Agent 集成
+**Capabilities：** 🤖 Agent 集成
 
 ---
 
@@ -302,7 +302,7 @@
 
 > 事件驱动的 Agentic 工作流引擎，为应用和 AI Agent 提供持久化、高弹性的执行引擎。Java 实现。
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -314,7 +314,7 @@
 
 > AI 自主 Agent 精选列表。全面收录各类 AI Agent 项目。
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -326,7 +326,7 @@
 
 > DeepSeek 原生 AI coding agent，围绕 prefix-cache 稳定性工程化。
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -338,7 +338,7 @@
 
 > 全能型 Agentic 工程平台，最受欢迎的开源编码 Agent
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -350,7 +350,7 @@
 
 > AGENTS.md — a simple, open format for guiding coding agents
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -362,7 +362,7 @@
 
 > 元 Agent 编排框架，Rust 实现
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -374,7 +374,7 @@
 
 > 211 个即插即用的 AI 专家角色，含 46 个中国市场原创智能体
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -386,7 +386,7 @@
 
 > 开放 Agent Harness，内置个人 Agent Ohmo！
 
-**Capabilities:** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -398,7 +398,7 @@
 
 > 将本地 AI coding agent 桥接到飞书/钉钉/Slack/Telegram 等消息平台
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -410,7 +410,7 @@
 
 > 自进化 Agent：从 3.3K 行种子代码生长技能树，token 消耗降低 6 倍
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -422,7 +422,7 @@
 
 > 语言模型 few-shot 评估框架，业界标准
 
-**Capabilities:** 🦞 Harness 运行时 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🤖 Agent 集成
 
 ---
 
@@ -434,7 +434,7 @@
 
 > The best agent harness.
 
-**Capabilities:** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -446,7 +446,7 @@
 
 > 面向生产环境的多 Agent Harness，Python 实现
 
-**Capabilities:** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -458,7 +458,7 @@
 
 > GEP 驱动的 AI Agent 自进化引擎
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -470,7 +470,7 @@
 
 > 元 Skill：设计领域特定 Agent 团队
 
-**Capabilities:** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -482,7 +482,7 @@
 
 > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -494,7 +494,7 @@
 
 > Git. Ship. Done - Core
 
-**Capabilities:** 🤖 Agent 集成
+**Capabilities：** 🤖 Agent 集成
 
 ---
 
@@ -506,7 +506,7 @@
 
 > 你的超级工作 Agent，本地优先，快速学习你的工作上下文
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -518,7 +518,7 @@
 
 > 自主 Harness 工程，Python 实现
 
-**Capabilities:** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -530,7 +530,7 @@
 
 > 《御舆：解码 Agent Harness》42万字深度拆解
 
-**Capabilities:** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
 
 ---
 
@@ -542,7 +542,7 @@
 
 > AI 开发平台，内置云端开发环境，支持顶尖大模型
 
-**Capabilities:** 🤖 Agent 集成
+**Capabilities：** 🤖 Agent 集成
 
 ---
 
@@ -554,26 +554,69 @@
 
 > Soul 驱动的 AI Agent，权限加固 + token 预算 + 多通道接入
 
-**Capabilities:** 🔀 多 Agent 编排 · 🤖 Agent 集成
+**Capabilities：** 🔀 多 Agent 编排 · 🤖 Agent 集成
 
----## Category Index
-
+---
+## Category Index
 
 ### 🦞 Harness 框架与运行时
 
-_（对齐中：按匹配能力分组补锚点）_
+- [openclaw](#openclawopenclaw-381k-) — 你自己的个人 AI 助手
+- [ECC](#affaan-mecc-224k-) — Agent Harness 性能优化全栈系统…
+- [opencode](#anomalycoopencode-181k-) — 开源编码 Agent，终端驱动的智能代码助手
+- [claude-code](#anthropicsclaude-code-135k-) — Claude Code 是运行于终端的 Agentic 编码工具，理解代码库并通过执行常规任务、解释复杂代码、处理 gi…
+- [gstack](#garrytangstack-118k-) — Garry Tan 的 Claude Code 完整配置：23 个意见鲜明的工具，分别扮演 CEO、设计师、工程经理、发…
+- [deer-flow](#bytedancedeer-flow-76k-) — 开源长周期 SuperAgent Harness，集研究、编码、创作于一体…
+- [learn-claude-code](#shareai-lablearn-claude-code-69k-) — Bash is all you need —— 从零到一构建的 nano claude code 式 Agent Har…
+- [pi](#earendil-workspi-67k-) — AI agent 工具包：coding agent CLI、统一 LLM API、TUI & Web UI 库、Slac…
+- [oh-my-openagent](#code-yeongyuoh-my-openagent-64k-) — omo：最好的 Agent Harness（前身为 oh-my-opencode）
+- [claude-code-best-practice](#shanraisshanclaude-code-best-practice-62k-) — 从 vibe coding 到 agentic engineering —— practice makes claude…
+- [oh-my-claudecode](#yeachan-heooh-my-claudecode-37k-) — 面向团队的 Claude Code 多 Agent 编排系统…
+- [harness](#harnessharness-37k-) — Harness 开源版：端到端开发者平台，集成代码管理、CI/CD 流水线、托管开发环境和制品仓库
+- [kilocode](#kilo-orgkilocode-25k-) — 全能型 Agentic 工程平台，最受欢迎的开源编码 Agent
+- [OpenHarness](#hkudsopenharness-14k-) — 开放 Agent Harness，内置个人 Agent Ohmo！
+- [claude-code-book](#lintsinghuaclaude-code-book-38k-) — 《御舆：解码 Agent Harness》42万字深度拆解
 
 ### 🔀 多 Agent 编排
 
-_（对齐中：按匹配能力分组补锚点）_
+- [hermes-agent](#nousresearchhermes-agent-207k-) — 与你共同成长的 Agent
+- [agency-agents](#msitarzewskiagency-agents-121k-) — 触手可及的完整 AI 代理公司…
+- [ralph](#snarktankralph-21k-) — 元 Agent 编排框架，Rust 实现
+- [agency-agents-zh](#jnmetacodeagency-agents-zh-16k-) — 211 个即插即用的 AI 专家角色，含 46 个中国市场原创智能体
+- [hive](#aden-hivehive-11k-) — 面向生产环境的多 Agent Harness，Python 实现
+- [evolver](#evomapevolver-88k-) — GEP 驱动的 AI Agent 自进化引擎
+- [autoagent](#kevinrguautoagent-45k-) — 自主 Harness 工程，Python 实现
+- [mercury-agent](#cosmicstack-labsmercury-agent-28k-) — Soul 驱动的 AI Agent，权限加固 + token 预算 + 多通道接入
 
 ### 📋 工作流与 Spec 驱动
 
-_（对齐中：按匹配能力分组补锚点）_
+- [superpowers](#obrasuperpowers-243k-) — Agentic Skills 框架与软件开发方法论…
+- [ECC](#affaan-mecc-224k-) — Agent Harness 性能优化全栈系统…
+- [spec-kit](#githubspec-kit-117k-) — 💫 Spec-Driven Development 入门工具包…
+- [learn-claude-code](#shareai-lablearn-claude-code-69k-) — Bash is all you need —— 从零到一构建的 nano claude code 式 Agent Har…
+- [OpenSpec](#fission-aiopenspec-58k-) — 面向 AI coding assistant 的 Spec-Driven Development（SDD）框架…
+- [BMAD-METHOD](#bmad-code-orgbmad-method-50k-) — Breakthrough Method for Agile AI Driven Development…
+- [Trellis](#mindfold-aitrellis-11k-) — The best agent harness.
+- [gsd-core](#open-gsdgsd-core-56k-) — Git. Ship. Done - Core
 
 ### 🌐 生态与最佳实践
 
-_（对齐中：按匹配能力分组补锚点）_
+- [ruflo](#ruvnetruflo-62k-) — Claude 的领先 Agent 编排平台…
+- [claude-code-best-practice](#shanraisshanclaude-code-best-practice-62k-) — 从 vibe coding 到 agentic engineering —— practice makes claude…
+- [openhuman](#tinyhumansaiopenhuman-34k-) — 你的个人 AI 超级智能
+- [conductor](#conductor-ossconductor-32k-) — 事件驱动的 Agentic 工作流引擎，为应用和 AI Agent 提供持久化、高弹性的执行引擎
+- [awesome-ai-agents](#e2b-devawesome-ai-agents-29k-) — AI 自主 Agent 精选列表
+- [DeepSeek-Reasonix](#esenginedeepseek-reasonix-26k-) — DeepSeek 原生 AI coding agent，围绕 prefix-cache 稳定性工程化
+- [agents.md](#agentsmdagents-md-23k-) — AGENTS.md — a simple, open format for guiding coding agents
+- [cc-connect](#chenhg5cc-connect-13k-) — 将本地 AI coding agent 桥接到飞书/钉钉/Slack/Telegram 等消息平台
+- [GenericAgent](#lsdefinegenericagent-13k-) — 自进化 Agent：从 3.3K 行种子代码生长技能树，token 消耗降低 6 倍
+- [lm-evaluation-harness](#eleutherailm-evaluation-harness-13k-) — 语言模型 few-shot 评估框架，业界标准
+- [harness](#revfactoryharness-81k-) — 元 Skill：设计领域特定 Agent 团队
+- [Webwright](#microsoftwebwright-57k-) — A simple SWE style browser agent framework that achieves SOT…
+- [holaOS](#holaboss-aiholaos-55k-) — 你的超级工作 Agent，本地优先，快速学习你的工作上下文
+- [claude-code-book](#lintsinghuaclaude-code-book-38k-) — 《御舆：解码 Agent Harness》42万字深度拆解
+- [MonkeyCode](#chaitinmonkeycode-35k-) — AI 开发平台，内置云端开发环境，支持顶尖大模型
+
 
 ---
 
