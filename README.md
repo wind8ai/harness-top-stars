@@ -604,15 +604,6 @@
 - [bigcode-evaluation-harness](#41-bigcode-projectbigcode-evaluation-harness-11k-) — 自回归代码生成语言模型的评估框架，用于 benchmark 与可复现实验（LLM 代码能力评测，非 Agent Harn…
 
 
-## 已移除
-
-| 项目 | 原因 | 日期 |
-|------|------|------|
-| safishamsi/graphify ❌ | 已从 wind8ai Harness 列表移除 | 2026-04-20 |
-| matthartman/ghost-pepper ❌ | 已从 wind8ai Harness 列表移除 | 2026-04-20 |
-| wind8ai/llm-dualoop ❌ | Star < 500 | 2026-06-03 |
-| Caldis/frameworks ❌ | Star < 500 | 2026-06-03 |
-
 ---
 
 ## 收录规则
