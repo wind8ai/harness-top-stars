@@ -26,31 +26,30 @@
 15. [Fission-AI/OpenSpec (58k ⭐)](#15-fission-aiopenspec-58k-)
 16. [bmad-code-org/BMAD-METHOD (50k ⭐)](#16-bmad-code-orgbmad-method-50k-)
 17. [Yeachan-Heo/oh-my-claudecode (37k ⭐)](#17-yeachan-heooh-my-claudecode-37k-)
-18. [harness/harness (37k ⭐)](#18-harnessharness-37k-)
-19. [tinyhumansai/openhuman (34k ⭐)](#19-tinyhumansaiopenhuman-34k-)
-20. [conductor-oss/conductor (32k ⭐)](#20-conductor-ossconductor-32k-)
-21. [e2b-dev/awesome-ai-agents (29k ⭐)](#21-e2b-devawesome-ai-agents-29k-)
-22. [esengine/DeepSeek-Reasonix (26k ⭐)](#22-esenginedeepseek-reasonix-26k-)
-23. [Kilo-Org/kilocode (25k ⭐)](#23-kilo-orgkilocode-25k-)
-24. [agentsmd/agents.md (23k ⭐)](#24-agentsmdagents.md-23k-)
-25. [snarktank/ralph (21k ⭐)](#25-snarktankralph-21k-)
-26. [jnMetaCode/agency-agents-zh (16k ⭐)](#26-jnmetacodeagency-agents-zh-16k-)
-27. [HKUDS/OpenHarness (14k ⭐)](#27-hkudsopenharness-14k-)
-28. [chenhg5/cc-connect (13k ⭐)](#28-chenhg5cc-connect-13k-)
-29. [lsdefine/GenericAgent (13k ⭐)](#29-lsdefinegenericagent-13k-)
-30. [EleutherAI/lm-evaluation-harness (13k ⭐)](#30-eleutherailm-evaluation-harness-13k-)
-31. [mindfold-ai/Trellis (12k ⭐)](#31-mindfold-aitrellis-12k-)
-32. [aden-hive/hive (11k ⭐)](#32-aden-hivehive-11k-)
-33. [EvoMap/evolver (8.8k ⭐)](#33-evomapevolver-88k-)
-34. [revfactory/harness (8.1k ⭐)](#34-revfactoryharness-81k-)
-35. [microsoft/Webwright (5.7k ⭐)](#35-microsoftwebwright-57k-)
-36. [open-gsd/gsd-core (5.6k ⭐)](#36-open-gsdgsd-core-56k-)
-37. [holaboss-ai/holaOS (5.5k ⭐)](#37-holaboss-aiholaos-55k-)
-38. [kevinrgu/autoagent (4.5k ⭐)](#38-kevinrguautoagent-45k-)
-39. [lintsinghua/claude-code-book (3.8k ⭐)](#39-lintsinghuaclaude-code-book-38k-)
-40. [chaitin/MonkeyCode (3.5k ⭐)](#40-chaitinmonkeycode-35k-)
-41. [cosmicstack-labs/mercury-agent (2.8k ⭐)](#41-cosmicstack-labsmercury-agent-28k-)
-42. [wquguru/harness-books (2.6k ⭐)](#42-wquguruharness-books-26k-)
+18. [tinyhumansai/openhuman (34k ⭐)](#18-tinyhumansaiopenhuman-34k-)
+19. [conductor-oss/conductor (32k ⭐)](#19-conductor-ossconductor-32k-)
+20. [e2b-dev/awesome-ai-agents (29k ⭐)](#20-e2b-devawesome-ai-agents-29k-)
+21. [esengine/DeepSeek-Reasonix (26k ⭐)](#21-esenginedeepseek-reasonix-26k-)
+22. [Kilo-Org/kilocode (25k ⭐)](#22-kilo-orgkilocode-25k-)
+23. [agentsmd/agents.md (23k ⭐)](#23-agentsmdagents.md-23k-)
+24. [snarktank/ralph (21k ⭐)](#24-snarktankralph-21k-)
+25. [HKUDS/OpenHarness (14k ⭐)](#25-hkudsopenharness-14k-)
+26. [chenhg5/cc-connect (13k ⭐)](#26-chenhg5cc-connect-13k-)
+27. [lsdefine/GenericAgent (13k ⭐)](#27-lsdefinegenericagent-13k-)
+28. [mindfold-ai/Trellis (12k ⭐)](#28-mindfold-aitrellis-12k-)
+29. [aden-hive/hive (11k ⭐)](#29-aden-hivehive-11k-)
+30. [EvoMap/evolver (8.8k ⭐)](#30-evomapevolver-88k-)
+31. [microsoft/Webwright (5.7k ⭐)](#31-microsoftwebwright-57k-)
+32. [open-gsd/gsd-core (5.6k ⭐)](#32-open-gsdgsd-core-56k-)
+33. [holaboss-ai/holaOS (5.5k ⭐)](#33-holaboss-aiholaos-55k-)
+34. [kevinrgu/autoagent (4.5k ⭐)](#34-kevinrguautoagent-45k-)
+35. [lintsinghua/claude-code-book (3.8k ⭐)](#35-lintsinghuaclaude-code-book-38k-)
+36. [chaitin/MonkeyCode (3.5k ⭐)](#36-chaitinmonkeycode-35k-)
+37. [cosmicstack-labs/mercury-agent (2.8k ⭐)](#37-cosmicstack-labsmercury-agent-28k-)
+38. [wquguru/harness-books (2.6k ⭐)](#38-wquguruharness-books-26k-)
+39. [AMAP-ML/SkillClaw (2k ⭐)](#39-amap-mlskillclaw-2k-)
+40. [ZhangHanDong/harness-engineering-from-cc-to-ai-coding (1.4k ⭐)](#40-zhanghandongharness-engineering-from-cc-to-ai-coding-14k-)
+41. [bigcode-project/bigcode-evaluation-harness (1.1k ⭐)](#41-bigcode-projectbigcode-evaluation-harness-11k-)
 
 ---
 
@@ -258,19 +257,7 @@
 
 ---
 
-## 18. harness/harness (37k ⭐)
-
-**🔗** https://github.com/harness/harness  
-**🍴** Fork 3.2k | **🔄** Updated 2026-07-01  
-**👤** Harness 公司官方出品，DevOps 平台领域知名企业
-
-> Harness 开源版：端到端开发者平台，集成代码管理、CI/CD 流水线、托管开发环境和制品仓库。Go 实现。
-
-**匹配能力**：🦞 Harness 运行时 · 🤖 Agent 集成
-
----
-
-## 19. tinyhumansai/openhuman (34k ⭐)
+## 18. tinyhumansai/openhuman (34k ⭐)
 
 **🔗** https://github.com/tinyhumansai/openhuman  
 **🍴** Fork 3.3k | **🔄** Updated 2026-07-01  
@@ -282,7 +269,7 @@
 
 ---
 
-## 20. conductor-oss/conductor (32k ⭐)
+## 19. conductor-oss/conductor (32k ⭐)
 
 **🔗** https://github.com/conductor-oss/conductor  
 **🍴** Fork 946 | **🔄** Updated 2026-06-30  
@@ -294,7 +281,7 @@
 
 ---
 
-## 21. e2b-dev/awesome-ai-agents (29k ⭐)
+## 20. e2b-dev/awesome-ai-agents (29k ⭐)
 
 **🔗** https://github.com/e2b-dev/awesome-ai-agents  
 **🍴** Fork 3.1k | **🔄** Updated 2025-02-26  
@@ -306,7 +293,7 @@
 
 ---
 
-## 22. esengine/DeepSeek-Reasonix (26k ⭐)
+## 21. esengine/DeepSeek-Reasonix (26k ⭐)
 
 **🔗** https://github.com/esengine/DeepSeek-Reasonix  
 **🍴** Fork 1.6k | **🔄** Updated 2026-07-01  
@@ -318,7 +305,7 @@
 
 ---
 
-## 23. Kilo-Org/kilocode (25k ⭐)
+## 22. Kilo-Org/kilocode (25k ⭐)
 
 **🔗** https://github.com/Kilo-Org/kilocode  
 **🍴** Fork 2.8k | **🔄** Updated 2026-07-01  
@@ -330,7 +317,7 @@
 
 ---
 
-## 24. agentsmd/agents.md (23k ⭐)
+## 23. agentsmd/agents.md (23k ⭐)
 
 **🔗** https://github.com/agentsmd/agents.md  
 **🍴** Fork 1.7k | **🔄** Updated 2026-03-12  
@@ -342,7 +329,7 @@
 
 ---
 
-## 25. snarktank/ralph (21k ⭐)
+## 24. snarktank/ralph (21k ⭐)
 
 **🔗** https://github.com/snarktank/ralph  
 **🍴** Fork 2k | **🔄** Updated 2026-02-02  
@@ -354,19 +341,7 @@
 
 ---
 
-## 26. jnMetaCode/agency-agents-zh (16k ⭐)
-
-**🔗** https://github.com/jnMetaCode/agency-agents-zh  
-**🍴** Fork 2.8k | **🔄** Updated 2026-07-01  
-**👤** jnMetaCode — 开源开发者
-
-> （待补充中文描述）
-
-**匹配能力**：🔀 多 Agent 编排 · 🤖 Agent 集成
-
----
-
-## 27. HKUDS/OpenHarness (14k ⭐)
+## 25. HKUDS/OpenHarness (14k ⭐)
 
 **🔗** https://github.com/HKUDS/OpenHarness  
 **🍴** Fork 2.4k | **🔄** Updated 2026-06-04  
@@ -378,7 +353,7 @@
 
 ---
 
-## 28. chenhg5/cc-connect (13k ⭐)
+## 26. chenhg5/cc-connect (13k ⭐)
 
 **🔗** https://github.com/chenhg5/cc-connect  
 **🍴** Fork 1.3k | **🔄** Updated 2026-06-30  
@@ -390,7 +365,7 @@
 
 ---
 
-## 29. lsdefine/GenericAgent (13k ⭐)
+## 27. lsdefine/GenericAgent (13k ⭐)
 
 **🔗** https://github.com/lsdefine/GenericAgent  
 **🍴** Fork 1.5k | **🔄** Updated 2026-06-30  
@@ -402,19 +377,7 @@
 
 ---
 
-## 30. EleutherAI/lm-evaluation-harness (13k ⭐)
-
-**🔗** https://github.com/EleutherAI/lm-evaluation-harness  
-**🍴** Fork 3.4k | **🔄** Updated 2026-06-24  
-**👤** EleutherAI — 开源开发者
-
-> （待补充中文描述）
-
-**匹配能力**：🦞 Harness 运行时 · 🤖 Agent 集成
-
----
-
-## 31. mindfold-ai/Trellis (12k ⭐)
+## 28. mindfold-ai/Trellis (12k ⭐)
 
 **🔗** https://github.com/mindfold-ai/Trellis  
 **🍴** Fork 649 | **🔄** Updated 2026-07-01  
@@ -426,7 +389,7 @@
 
 ---
 
-## 32. aden-hive/hive (11k ⭐)
+## 29. aden-hive/hive (11k ⭐)
 
 **🔗** https://github.com/aden-hive/hive  
 **🍴** Fork 5.7k | **🔄** Updated 2026-05-29  
@@ -438,7 +401,7 @@
 
 ---
 
-## 33. EvoMap/evolver (8.8k ⭐)
+## 30. EvoMap/evolver (8.8k ⭐)
 
 **🔗** https://github.com/EvoMap/evolver  
 **🍴** Fork 818 | **🔄** Updated 2026-07-01  
@@ -450,19 +413,7 @@
 
 ---
 
-## 34. revfactory/harness (8.1k ⭐)
-
-**🔗** https://github.com/revfactory/harness  
-**🍴** Fork 1.1k | **🔄** Updated 2026-06-10  
-**👤** Harness 公司官方出品，DevOps 平台领域知名企业
-
-> Harness 开源版：端到端开发者平台，集成代码管理、CI/CD 流水线、托管开发环境和制品仓库。Go 实现。
-
-**匹配能力**：🦞 Harness 运行时 · 🤖 Agent 集成
-
----
-
-## 35. microsoft/Webwright (5.7k ⭐)
+## 31. microsoft/Webwright (5.7k ⭐)
 
 **🔗** https://github.com/microsoft/Webwright  
 **🍴** Fork 362 | **🔄** Updated 2026-06-03  
@@ -474,7 +425,7 @@
 
 ---
 
-## 36. open-gsd/gsd-core (5.6k ⭐)
+## 32. open-gsd/gsd-core (5.6k ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-core  
 **🍴** Fork 346 | **🔄** Updated 2026-07-01  
@@ -486,7 +437,7 @@
 
 ---
 
-## 37. holaboss-ai/holaOS (5.5k ⭐)
+## 33. holaboss-ai/holaOS (5.5k ⭐)
 
 **🔗** https://github.com/holaboss-ai/holaOS  
 **🍴** Fork 391 | **🔄** Updated 2026-06-22  
@@ -498,7 +449,7 @@
 
 ---
 
-## 38. kevinrgu/autoagent (4.5k ⭐)
+## 34. kevinrgu/autoagent (4.5k ⭐)
 
 **🔗** https://github.com/kevinrgu/autoagent  
 **🍴** Fork 501 | **🔄** Updated 2026-04-03  
@@ -510,7 +461,7 @@
 
 ---
 
-## 39. lintsinghua/claude-code-book (3.8k ⭐)
+## 35. lintsinghua/claude-code-book (3.8k ⭐)
 
 **🔗** https://github.com/lintsinghua/claude-code-book  
 **🍴** Fork 788 | **🔄** Updated 2026-06-19  
@@ -522,10 +473,10 @@
 
 ---
 
-## 40. chaitin/MonkeyCode (3.5k ⭐)
+## 36. chaitin/MonkeyCode (3.5k ⭐)
 
 **🔗** https://github.com/chaitin/MonkeyCode  
-**🍴** Fork 446 | **🔄** Updated 2026-07-01  
+**🍴** Fork 447 | **🔄** Updated 2026-07-01  
 **👤** chaitin — 开源开发者
 
 > （待补充中文描述）
@@ -534,7 +485,7 @@
 
 ---
 
-## 41. cosmicstack-labs/mercury-agent (2.8k ⭐)
+## 37. cosmicstack-labs/mercury-agent (2.8k ⭐)
 
 **🔗** https://github.com/cosmicstack-labs/mercury-agent  
 **🍴** Fork 291 | **🔄** Updated 2026-06-27  
@@ -546,11 +497,47 @@
 
 ---
 
-## 42. wquguru/harness-books (2.6k ⭐)
+## 38. wquguru/harness-books (2.6k ⭐)
 
 **🔗** https://github.com/wquguru/harness-books  
 **🍴** Fork 305 | **🔄** Updated 2026-04-19  
 **👤** wquguru — 开源开发者
+
+> （待补充中文描述）
+
+**匹配能力**：🦞 Harness 运行时 · 🤖 Agent 集成
+
+---
+
+## 39. AMAP-ML/SkillClaw (2k ⭐)
+
+**🔗** https://github.com/AMAP-ML/SkillClaw  
+**🍴** Fork 196 | **🔄** Updated 2026-06-02  
+**👤** AMAP-ML — 开源开发者
+
+> （待补充中文描述）
+
+**匹配能力**：🤖 Agent 集成
+
+---
+
+## 40. ZhangHanDong/harness-engineering-from-cc-to-ai-coding (1.4k ⭐)
+
+**🔗** https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding  
+**🍴** Fork 264 | **🔄** Updated 2026-04-10  
+**👤** ZhangHanDong — 开源开发者
+
+> （待补充中文描述）
+
+**匹配能力**：🦞 Harness 运行时 · 🤖 Agent 集成
+
+---
+
+## 41. bigcode-project/bigcode-evaluation-harness (1.1k ⭐)
+
+**🔗** https://github.com/bigcode-project/bigcode-evaluation-harness  
+**🍴** Fork 263 | **🔄** Updated 2025-07-22  
+**👤** bigcode-project — 开源开发者
 
 > （待补充中文描述）
 
@@ -572,21 +559,19 @@
 - [oh-my-openagent](#12-code-yeongyuoh-my-openagent-64k-) — omo：最好的 Agent Harness（前身为 oh-my-opencode）
 - [claude-code-best-practice](#14-shanraisshanclaude-code-best-practice-62k-) — 从 vibe coding 到 agentic engineering —— practice makes claude…
 - [oh-my-claudecode](#17-yeachan-heooh-my-claudecode-37k-) — 面向团队的 Claude Code 多 Agent 编排系统
-- [harness](#18-harnessharness-37k-) — Harness 开源版：端到端开发者平台，集成代码管理、CI/CD 流水线、托管开发环境和制品仓库
-- [kilocode](#23-kilo-orgkilocode-25k-) — （待补充中文描述）
-- [OpenHarness](#27-hkudsopenharness-14k-) — （待补充中文描述）
-- [claude-code-book](#39-lintsinghuaclaude-code-book-38k-) — （待补充中文描述）
+- [kilocode](#22-kilo-orgkilocode-25k-) — （待补充中文描述）
+- [OpenHarness](#25-hkudsopenharness-14k-) — （待补充中文描述）
+- [claude-code-book](#35-lintsinghuaclaude-code-book-38k-) — （待补充中文描述）
 
 ### 🔀 多 Agent 编排
 
 - [hermes-agent](#3-nousresearchhermes-agent-207k-) — 与你共同成长的 Agent
 - [agency-agents](#6-msitarzewskiagency-agents-122k-) — 触手可及的完整 AI 代理公司
-- [ralph](#25-snarktankralph-21k-) — （待补充中文描述）
-- [agency-agents-zh](#26-jnmetacodeagency-agents-zh-16k-) — （待补充中文描述）
-- [hive](#32-aden-hivehive-11k-) — （待补充中文描述）
-- [evolver](#33-evomapevolver-88k-) — （待补充中文描述）
-- [autoagent](#38-kevinrguautoagent-45k-) — （待补充中文描述）
-- [mercury-agent](#41-cosmicstack-labsmercury-agent-28k-) — （待补充中文描述）
+- [ralph](#24-snarktankralph-21k-) — （待补充中文描述）
+- [hive](#29-aden-hivehive-11k-) — （待补充中文描述）
+- [evolver](#30-evomapevolver-88k-) — （待补充中文描述）
+- [autoagent](#34-kevinrguautoagent-45k-) — （待补充中文描述）
+- [mercury-agent](#37-cosmicstack-labsmercury-agent-28k-) — （待补充中文描述）
 
 ### 📋 工作流与 Spec 驱动
 
@@ -595,27 +580,28 @@
 - [learn-claude-code](#10-shareai-lablearn-claude-code-69k-) — Bash is all you need —— 从零到一构建的 nano claude code 式 Agent Har…
 - [OpenSpec](#15-fission-aiopenspec-58k-) — 面向 AI coding assistant 的 Spec-Driven Development（SDD）框架
 - [BMAD-METHOD](#16-bmad-code-orgbmad-method-50k-) — Breakthrough Method for Agile AI Driven Development
-- [Trellis](#31-mindfold-aitrellis-12k-) — （待补充中文描述）
-- [gsd-core](#36-open-gsdgsd-core-56k-) — （待补充中文描述）
+- [Trellis](#28-mindfold-aitrellis-12k-) — （待补充中文描述）
+- [gsd-core](#32-open-gsdgsd-core-56k-) — （待补充中文描述）
 
 ### 🌐 生态与最佳实践
 
 - [ruflo](#13-ruvnetruflo-62k-) — Claude 的领先 Agent 编排平台
 - [claude-code-best-practice](#14-shanraisshanclaude-code-best-practice-62k-) — 从 vibe coding 到 agentic engineering —— practice makes claude…
-- [openhuman](#19-tinyhumansaiopenhuman-34k-) — 你的个人 AI 超级智能
-- [conductor](#20-conductor-ossconductor-32k-) — 事件驱动的 Agentic 工作流引擎，为应用和 AI Agent 提供持久化、高弹性的执行引擎
-- [awesome-ai-agents](#21-e2b-devawesome-ai-agents-29k-) — AI 自主 Agent 精选列表
-- [DeepSeek-Reasonix](#22-esenginedeepseek-reasonix-26k-) — DeepSeek 原生 AI coding agent，围绕 prefix-cache 稳定性工程化
-- [agents.md](#24-agentsmdagents.md-23k-) — （待补充中文描述）
-- [cc-connect](#28-chenhg5cc-connect-13k-) — （待补充中文描述）
-- [GenericAgent](#29-lsdefinegenericagent-13k-) — （待补充中文描述）
-- [lm-evaluation-harness](#30-eleutherailm-evaluation-harness-13k-) — （待补充中文描述）
-- [harness](#34-revfactoryharness-81k-) — Harness 开源版：端到端开发者平台，集成代码管理、CI/CD 流水线、托管开发环境和制品仓库
-- [Webwright](#35-microsoftwebwright-57k-) — （待补充中文描述）
-- [holaOS](#37-holaboss-aiholaos-55k-) — （待补充中文描述）
-- [claude-code-book](#39-lintsinghuaclaude-code-book-38k-) — （待补充中文描述）
-- [MonkeyCode](#40-chaitinmonkeycode-35k-) — （待补充中文描述）
-- [harness-books](#42-wquguruharness-books-26k-) — （待补充中文描述）
+- [openhuman](#18-tinyhumansaiopenhuman-34k-) — 你的个人 AI 超级智能
+- [conductor](#19-conductor-ossconductor-32k-) — 事件驱动的 Agentic 工作流引擎，为应用和 AI Agent 提供持久化、高弹性的执行引擎
+- [awesome-ai-agents](#20-e2b-devawesome-ai-agents-29k-) — AI 自主 Agent 精选列表
+- [DeepSeek-Reasonix](#21-esenginedeepseek-reasonix-26k-) — DeepSeek 原生 AI coding agent，围绕 prefix-cache 稳定性工程化
+- [agents.md](#23-agentsmdagents.md-23k-) — （待补充中文描述）
+- [cc-connect](#26-chenhg5cc-connect-13k-) — （待补充中文描述）
+- [GenericAgent](#27-lsdefinegenericagent-13k-) — （待补充中文描述）
+- [Webwright](#31-microsoftwebwright-57k-) — （待补充中文描述）
+- [holaOS](#33-holaboss-aiholaos-55k-) — （待补充中文描述）
+- [claude-code-book](#35-lintsinghuaclaude-code-book-38k-) — （待补充中文描述）
+- [MonkeyCode](#36-chaitinmonkeycode-35k-) — （待补充中文描述）
+- [harness-books](#38-wquguruharness-books-26k-) — （待补充中文描述）
+- [SkillClaw](#39-amap-mlskillclaw-2k-) — （待补充中文描述）
+- [harness-engineering-from-cc-to-ai-coding](#40-zhanghandongharness-engineering-from-cc-to-ai-coding-14k-) — （待补充中文描述）
+- [bigcode-evaluation-harness](#41-bigcode-projectbigcode-evaluation-harness-11k-) — （待补充中文描述）
 
 
 ## 已移除
