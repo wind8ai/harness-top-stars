@@ -3,42 +3,55 @@
 **中文** | [English](./README.en.overflow.md) · [正式榜](./README.md)
 
 > Star List 中超出正式榜 42 个上限的条目，按 GitHub Star 总数降序  
-> 来源：[wind8ai 的 harness 列表](https://github.com/stars/wind8ai/lists/harness) · 更新：2026-07-21
+> 来源：[wind8ai 的 harness 列表](https://github.com/stars/wind8ai/lists/harness) · 更新：2026-07-28
 
 ---
 
 ## Contents
 
-01. [MoonshotAI/kimi-code (4.3k ⭐)](#1-moonshotaikimi-code-43k-)
-02. [lintsinghua/claude-code-book (4k ⭐)](#2-lintsinghuaclaude-code-book-4k-)
-03. [chaitin/MonkeyCode (3.8k ⭐)](#3-chaitinmonkeycode-38k-)
-04. [cosmicstack-labs/mercury-agent (3k ⭐)](#4-cosmicstack-labsmercury-agent-3k-)
-05. [wquguru/harness-books (2.7k ⭐)](#5-wquguruharness-books-27k-)
-06. [yorgai/ORG2 (2.2k ⭐)](#6-yorgaiorg2-22k-)
-07. [AMAP-ML/SkillClaw (2.2k ⭐)](#7-amap-mlskillclaw-22k-)
-08. [ZhangHanDong/harness-engineering-from-cc-to-ai-coding (1.5k ⭐)](#8-zhanghandongharness-engineering-from-cc-to-ai-coding-15k-)
-09. [bigcode-project/bigcode-evaluation-harness (1.1k ⭐)](#9-bigcode-projectbigcode-evaluation-harness-11k-)
-10. [Caldis/frameworks (8 ⭐)](#10-caldisframeworks-8-)
-11. [wind8ai/llm-dualoop (5 ⭐)](#11-wind8aillm-dualoop-5-)
+01. [generalaction/emdash (5.3k ⭐)](#1-generalactionemdash-53k-)
+02. [kevinrgu/autoagent (4.6k ⭐)](#2-kevinrguautoagent-46k-)
+03. [lintsinghua/claude-code-book (4k ⭐)](#3-lintsinghuaclaude-code-book-4k-)
+04. [chaitin/MonkeyCode (3.9k ⭐)](#4-chaitinmonkeycode-39k-)
+05. [cosmicstack-labs/mercury-agent (3k ⭐)](#5-cosmicstack-labsmercury-agent-3k-)
+06. [wquguru/harness-books (2.7k ⭐)](#6-wquguruharness-books-27k-)
+07. [AMAP-ML/SkillClaw (2.3k ⭐)](#7-amap-mlskillclaw-23k-)
+08. [org2AI/ORG2 (2.2k ⭐)](#8-org2aiorg2-22k-)
+09. [ZhangHanDong/harness-engineering-from-cc-to-ai-coding (1.5k ⭐)](#9-zhanghandongharness-engineering-from-cc-to-ai-coding-15k-)
+10. [bigcode-project/bigcode-evaluation-harness (1.1k ⭐)](#10-bigcode-projectbigcode-evaluation-harness-11k-)
+11. [Caldis/frameworks (9 ⭐)](#11-caldisframeworks-9-)
+12. [wind8ai/llm-dualoop (5 ⭐)](#12-wind8aillm-dualoop-5-)
 
 ---
 
-## 1. MoonshotAI/kimi-code (4.3k ⭐)
+## 1. generalaction/emdash (5.3k ⭐)
 
-**🔗** https://github.com/MoonshotAI/kimi-code  
-**🍴** Fork 632 | **🔄** Updated 2026-07-21  
-**👤** Moonshot AI — Kimi Code 团队
+**🔗** https://github.com/generalaction/emdash  
+**🍴** Fork 543 | **🔄** Updated 2026-07-28  
+**👤** General Action — Emdash 开源 Agentic Development Environment 团队
 
-> Moonshot AI 的 Kimi Code CLI，为新一代 Agent 工作流提供终端入口和可扩展的编码执行环境。
+> 开源 Agentic Development Environment，可并行运行多个 coding agent、接入不同模型提供方，并以工作区隔离和编排能力支持团队开发。
 
-**匹配能力**：🔀 多 Agent 编排 · 🤖 Agent 集成
+**匹配能力**：🤖 Agent 集成 · 🔀 多 Agent 编排
 
 ---
 
-## 2. lintsinghua/claude-code-book (4k ⭐)
+## 2. kevinrgu/autoagent (4.6k ⭐)
+
+**🔗** https://github.com/kevinrgu/autoagent  
+**🍴** Fork 502 | **🔄** Updated 2026-04-03  
+**👤** kevinrgu — 开源开发者
+
+> 自主 Harness 工程项目，探索 agent 自我驱动开发与 Harness 工程化实践。
+
+**匹配能力**：🤖 Agent 集成 · 🔀 多 Agent 编排 · 🦞 Harness 运行时
+
+---
+
+## 3. lintsinghua/claude-code-book (4k ⭐)
 
 **🔗** https://github.com/lintsinghua/claude-code-book  
-**🍴** Fork 798 | **🔄** Updated 2026-06-19  
+**🍴** Fork 801 | **🔄** Updated 2026-06-19  
 **👤** lintsinghua — 开源开发者
 
 > 《御舆：解码 Agent Harness》42 万字在线书，15 章从 Claude Code 对话循环到构建你自己的 Agent Harness。
@@ -47,10 +60,10 @@
 
 ---
 
-## 3. chaitin/MonkeyCode (3.8k ⭐)
+## 4. chaitin/MonkeyCode (3.9k ⭐)
 
 **🔗** https://github.com/chaitin/MonkeyCode  
-**🍴** Fork 487 | **🔄** Updated 2026-07-21  
+**🍴** Fork 518 | **🔄** Updated 2026-07-27  
 **👤** chaitin — 开源开发者
 
 > 长亭出品的企业级在线 AI 编程平台，集成开发环境、AI 模型与任务管理，面向专业开发团队。
@@ -59,10 +72,10 @@
 
 ---
 
-## 4. cosmicstack-labs/mercury-agent (3k ⭐)
+## 5. cosmicstack-labs/mercury-agent (3k ⭐)
 
 **🔗** https://github.com/cosmicstack-labs/mercury-agent  
-**🍴** Fork 316 | **🔄** Updated 2026-07-21  
+**🍴** Fork 317 | **🔄** Updated 2026-07-23  
 **👤** cosmicstack-labs — 开源开发者
 
 > 带权限硬化工具、Token 预算与多渠道接入的 7×24 自主 Agent，支持 CLI 与 Telegram 远程操控。
@@ -71,10 +84,10 @@
 
 ---
 
-## 5. wquguru/harness-books (2.7k ⭐)
+## 6. wquguru/harness-books (2.7k ⭐)
 
 **🔗** https://github.com/wquguru/harness-books  
-**🍴** Fork 316 | **🔄** Updated 2026-04-19  
+**🍴** Fork 320 | **🔄** Updated 2026-04-19  
 **👤** wquguru — 开源开发者
 
 > 两本 Harness 工程读物，剖析 Claude Code 与 Codex 背后的约束设计、查询循环、上下文治理与多 Agent 验证。
@@ -83,22 +96,10 @@
 
 ---
 
-## 6. yorgai/ORG2 (2.2k ⭐)
-
-**🔗** https://github.com/yorgai/ORG2  
-**🍴** Fork 126 | **🔄** Updated 2026-07-21  
-**👤** YORG — 以 Agent 友好 ADE 为目标的开发团队
-
-> 面向可审查与团队协作的 coding agent 组织框架，内置 Rust harness 与二十多个 CLI，强调本地优先和可靠执行。
-
-**匹配能力**：🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
-
----
-
-## 7. AMAP-ML/SkillClaw (2.2k ⭐)
+## 7. AMAP-ML/SkillClaw (2.3k ⭐)
 
 **🔗** https://github.com/AMAP-ML/SkillClaw  
-**🍴** Fork 208 | **🔄** Updated 2026-06-02  
+**🍴** Fork 226 | **🔄** Updated 2026-06-02  
 **👤** AMAP-ML — 开源开发者
 
 > 让 Skills 在 Agentic Evolver 中集体进化，支持多 Agent 协同迭代与能力共享。
@@ -107,10 +108,22 @@
 
 ---
 
-## 8. ZhangHanDong/harness-engineering-from-cc-to-ai-coding (1.5k ⭐)
+## 8. org2AI/ORG2 (2.2k ⭐)
+
+**🔗** https://github.com/org2AI/ORG2  
+**🍴** Fork 118 | **🔄** Updated 2026-07-28  
+**👤** ORG2 AI — 以 Agent 友好开发环境为目标的工程团队
+
+> 记录 Agent 如何构建软件的协作系统，内置 Rust harness 与二十多个 CLI，强调可审查、本地优先和可靠执行。
+
+**匹配能力**：🦞 Harness 运行时 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+
+---
+
+## 9. ZhangHanDong/harness-engineering-from-cc-to-ai-coding (1.5k ⭐)
 
 **🔗** https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding  
-**🍴** Fork 269 | **🔄** Updated 2026-04-10  
+**🍴** Fork 268 | **🔄** Updated 2026-04-10  
 **👤** ZhangHanDong — 开源开发者
 
 > 从 Claude Code 源码出发的 Harness 工程实践，讲解 AI Coding 时代的 Harness 设计思路与实现要点。
@@ -119,10 +132,10 @@
 
 ---
 
-## 9. bigcode-project/bigcode-evaluation-harness (1.1k ⭐)
+## 10. bigcode-project/bigcode-evaluation-harness (1.1k ⭐)
 
 **🔗** https://github.com/bigcode-project/bigcode-evaluation-harness  
-**🍴** Fork 263 | **🔄** Updated 2025-07-22  
+**🍴** Fork 262 | **🔄** Updated 2025-07-22  
 **👤** bigcode-project — 开源开发者
 
 > 自回归代码生成语言模型的评估框架，用于 benchmark 与可复现实验（LLM 代码能力评测，非 Agent Harness 运行时）。
@@ -131,7 +144,7 @@
 
 ---
 
-## 10. Caldis/frameworks (8 ⭐)
+## 11. Caldis/frameworks (9 ⭐)
 
 **🔗** https://github.com/Caldis/frameworks  
 **🍴** Fork 3 | **🔄** Updated 2026-05-09  
@@ -143,7 +156,7 @@
 
 ---
 
-## 11. wind8ai/llm-dualoop (5 ⭐)
+## 12. wind8ai/llm-dualoop (5 ⭐)
 
 **🔗** https://github.com/wind8ai/llm-dualoop  
 **🍴** Fork 0 | **🔄** Updated 2026-04-10  
@@ -158,24 +171,25 @@
 
 ### 🦞 Harness 框架与运行时
 
-- [claude-code-book](#2-lintsinghuaclaude-code-book-4k-) — 《御舆：解码 Agent Harness》42 万字在线书，15 章从 Claude Code 对话循环到构建你自己的 …
+- [claude-code-book](#3-lintsinghuaclaude-code-book-4k-) — 《御舆：解码 Agent Harness》42 万字在线书，15 章从 Claude Code 对话循环到构建你自己的 …
 
 ### 🔀 多 Agent 编排
 
-- [mercury-agent](#4-cosmicstack-labsmercury-agent-3k-) — 带权限硬化工具、Token 预算与多渠道接入的 7×24 自主 Agent，支持 CLI 与 Telegram 远程操控
-- [SkillClaw](#7-amap-mlskillclaw-22k-) — 让 Skills 在 Agentic Evolver 中集体进化，支持多 Agent 协同迭代与能力共享
+- [autoagent](#2-kevinrguautoagent-46k-) — 自主 Harness 工程项目，探索 agent 自我驱动开发与 Harness 工程化实践
+- [mercury-agent](#5-cosmicstack-labsmercury-agent-3k-) — 带权限硬化工具、Token 预算与多渠道接入的 7×24 自主 Agent，支持 CLI 与 Telegram 远程操控
+- [SkillClaw](#7-amap-mlskillclaw-23k-) — 让 Skills 在 Agentic Evolver 中集体进化，支持多 Agent 协同迭代与能力共享
 
 ### 🌐 生态与最佳实践
 
-- [kimi-code](#1-moonshotaikimi-code-43k-) — Moonshot AI 的 Kimi Code CLI，为新一代 Agent 工作流提供终端入口和可扩展的编码执行环境
-- [claude-code-book](#2-lintsinghuaclaude-code-book-4k-) — 《御舆：解码 Agent Harness》42 万字在线书，15 章从 Claude Code 对话循环到构建你自己的 …
-- [MonkeyCode](#3-chaitinmonkeycode-38k-) — 长亭出品的企业级在线 AI 编程平台，集成开发环境、AI 模型与任务管理，面向专业开发团队
-- [harness-books](#5-wquguruharness-books-27k-) — 两本 Harness 工程读物，剖析 Claude Code 与 Codex 背后的约束设计、查询循环、上下文治理与多 …
-- [ORG2](#6-yorgaiorg2-22k-) — 面向可审查与团队协作的 coding agent 组织框架，内置 Rust harness 与二十多个 CLI，强调本地…
-- [harness-engineering-from-cc-to-ai-coding](#8-zhanghandongharness-engineering-from-cc-to-ai-coding-15k-) — 从 Claude Code 源码出发的 Harness 工程实践，讲解 AI Coding 时代的 Harness 设计…
-- [bigcode-evaluation-harness](#9-bigcode-projectbigcode-evaluation-harness-11k-) — 自回归代码生成语言模型的评估框架，用于 benchmark 与可复现实验（LLM 代码能力评测，非 Agent Harn…
-- [frameworks](#10-caldisframeworks-8-) — 面向工程师、架构师与 AI agent 的软件设计框架策展集，以可浏览的知识库整理常用架构与设计方法
-- [llm-dualoop](#11-wind8aillm-dualoop-5-) — 将反馈闭环工作法与 LLM Wiki 结合的双环知识工作方法：一条循环推进任务，另一条沉淀和修正可复用认知
+- [emdash](#1-generalactionemdash-53k-) — 开源 Agentic Development Environment，可并行运行多个 coding agent、接入不同…
+- [claude-code-book](#3-lintsinghuaclaude-code-book-4k-) — 《御舆：解码 Agent Harness》42 万字在线书，15 章从 Claude Code 对话循环到构建你自己的 …
+- [MonkeyCode](#4-chaitinmonkeycode-39k-) — 长亭出品的企业级在线 AI 编程平台，集成开发环境、AI 模型与任务管理，面向专业开发团队
+- [harness-books](#6-wquguruharness-books-27k-) — 两本 Harness 工程读物，剖析 Claude Code 与 Codex 背后的约束设计、查询循环、上下文治理与多 …
+- [ORG2](#8-org2aiorg2-22k-) — 记录 Agent 如何构建软件的协作系统，内置 Rust harness 与二十多个 CLI，强调可审查、本地优先和可靠…
+- [harness-engineering-from-cc-to-ai-coding](#9-zhanghandongharness-engineering-from-cc-to-ai-coding-15k-) — 从 Claude Code 源码出发的 Harness 工程实践，讲解 AI Coding 时代的 Harness 设计…
+- [bigcode-evaluation-harness](#10-bigcode-projectbigcode-evaluation-harness-11k-) — 自回归代码生成语言模型的评估框架，用于 benchmark 与可复现实验（LLM 代码能力评测，非 Agent Harn…
+- [frameworks](#11-caldisframeworks-9-) — 面向工程师、架构师与 AI agent 的软件设计框架策展集，以可浏览的知识库整理常用架构与设计方法
+- [llm-dualoop](#12-wind8aillm-dualoop-5-) — 将反馈闭环工作法与 LLM Wiki 结合的双环知识工作方法：一条循环推进任务，另一条沉淀和修正可复用认知
 
 
 ---
@@ -195,4 +209,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-07-21*
+*由 wind8 整理 | 2026-07-28*
