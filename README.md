@@ -3,45 +3,45 @@
 **中文** | [English](./README.en.md) · [备选榜](./README.overflow.md)
 
 > GitHub 高星 Agent Harness 项目精选  
-> 来源：[wind8ai 的 harness 列表](https://github.com/stars/wind8ai/lists/harness) · 更新：2026-08-24
+> 来源：[wind8ai 的 harness 列表](https://github.com/stars/wind8ai/lists/harness) · 更新：2026-08-27
 
 ---
 
 ## Contents
 
-01. [openclaw/openclaw (387k ⭐)](#1-openclawopenclaw-387k-)
-02. [affaan-m/ECC (243k ⭐)](#2-affaan-mecc-243k-)
-03. [NousResearch/hermes-agent (235k ⭐)](#3-nousresearchhermes-agent-235k-)
-04. [anomalyco/opencode (201k ⭐)](#4-anomalycoopencode-201k-)
-05. [deepseek-ai/deepseek-harness (190k ⭐)](#5-deepseek-aideepseek-harness-190k-)
+01. [openclaw/openclaw (388k ⭐)](#1-openclawopenclaw-388k-)
+02. [affaan-m/ECC (244k ⭐)](#2-affaan-mecc-244k-)
+03. [NousResearch/hermes-agent (237k ⭐)](#3-nousresearchhermes-agent-237k-)
+04. [anomalyco/opencode (202k ⭐)](#4-anomalycoopencode-202k-)
+05. [deepseek-ai/deepseek-harness (199k ⭐)](#5-deepseek-aideepseek-harness-199k-)
 06. [msitarzewski/agency-agents (148k ⭐)](#6-msitarzewskiagency-agents-148k-)
 07. [anthropics/claude-code (143k ⭐)](#7-anthropicsclaude-code-143k-)
-08. [github/spec-kit (131k ⭐)](#8-githubspec-kit-131k-)
-09. [garrytan/gstack (129k ⭐)](#9-garrytangstack-129k-)
-10. [openai/codex (117k ⭐)](#10-openaicodex-117k-)
-11. [earendil-works/pi (96k ⭐)](#11-earendil-workspi-96k-)
+08. [github/spec-kit (132k ⭐)](#8-githubspec-kit-132k-)
+09. [garrytan/gstack (130k ⭐)](#9-garrytangstack-130k-)
+10. [openai/codex (119k ⭐)](#10-openaicodex-119k-)
+11. [earendil-works/pi (98k ⭐)](#11-earendil-workspi-98k-)
 12. [bytedance/deer-flow (81k ⭐)](#12-bytedancedeer-flow-81k-)
 13. [shareAI-lab/learn-claude-code (75k ⭐)](#13-shareai-lablearn-claude-code-75k-)
-14. [ruvnet/ruflo (69k ⭐)](#14-ruvnetruflo-69k-)
+14. [ruvnet/ruflo (70k ⭐)](#14-ruvnetruflo-70k-)
 15. [code-yeongyu/oh-my-openagent (68k ⭐)](#15-code-yeongyuoh-my-openagent-68k-)
 16. [Fission-AI/OpenSpec (66k ⭐)](#16-fission-aiopenspec-66k-)
 17. [shanraisshan/claude-code-best-practice (65k ⭐)](#17-shanraisshanclaude-code-best-practice-65k-)
-18. [pbakaus/impeccable (62k ⭐)](#18-pbakausimpeccable-62k-)
+18. [pbakaus/impeccable (63k ⭐)](#18-pbakausimpeccable-63k-)
 19. [bmad-code-org/BMAD-METHOD (52k ⭐)](#19-bmad-code-orgbmad-method-52k-)
-20. [bojieli/ai-agent-book (42k ⭐)](#20-bojieliai-agent-book-42k-)
+20. [bojieli/ai-agent-book (43k ⭐)](#20-bojieliai-agent-book-43k-)
 21. [Yeachan-Heo/oh-my-claudecode (39k ⭐)](#21-yeachan-heooh-my-claudecode-39k-)
-22. [tinyhumansai/openhuman (37k ⭐)](#22-tinyhumansaiopenhuman-37k-)
+22. [tinyhumansai/openhuman (38k ⭐)](#22-tinyhumansaiopenhuman-38k-)
 23. [esengine/DeepSeek-Reasonix (35k ⭐)](#23-esenginedeepseek-reasonix-35k-)
 24. [conductor-oss/conductor (32k ⭐)](#24-conductor-ossconductor-32k-)
 25. [e2b-dev/awesome-ai-agents (30k ⭐)](#25-e2b-devawesome-ai-agents-30k-)
 26. [Kilo-Org/kilocode (27k ⭐)](#26-kilo-orgkilocode-27k-)
 27. [xai-org/grok-build (26k ⭐)](#27-xai-orggrok-build-26k-)
-28. [humanlayer/12-factor-agents (25k ⭐)](#28-humanlayer12-factor-agents-25k-)
-29. [TencentCloud/TencentDB-Agent-Memory (24k ⭐)](#29-tencentcloudtencentdb-agent-memory-24k-)
+28. [humanlayer/12-factor-agents (26k ⭐)](#28-humanlayer12-factor-agents-26k-)
+29. [TencentCloud/TencentDB-Agent-Memory (25k ⭐)](#29-tencentcloudtencentdb-agent-memory-25k-)
 30. [agentsmd/agents.md (24k ⭐)](#30-agentsmdagents.md-24k-)
 31. [different-ai/openwork (23k ⭐)](#31-different-aiopenwork-23k-)
 32. [snarktank/ralph (22k ⭐)](#32-snarktankralph-22k-)
-33. [1jehuang/jcode (18k ⭐)](#33-1jehuangjcode-18k-)
+33. [1jehuang/jcode (19k ⭐)](#33-1jehuangjcode-19k-)
 34. [HKUDS/OpenHarness (16k ⭐)](#34-hkudsopenharness-16k-)
 35. [chenhg5/cc-connect (15k ⭐)](#35-chenhg5cc-connect-15k-)
 36. [mindfold-ai/Trellis (14k ⭐)](#36-mindfold-aitrellis-14k-)
@@ -56,10 +56,10 @@
 
 ---
 
-## 1. openclaw/openclaw (387k ⭐)
+## 1. openclaw/openclaw (388k ⭐)
 
 **🔗** https://github.com/openclaw/openclaw  
-**🍴** Fork 81k | **🔄** Updated 2026-08-24  
+**🍴** Fork 81k | **🔄** Updated 2026-08-27  
 **👤** OpenClaw 官方团队出品，个人 AI 助手领域的领军开源项目
 
 > 你自己的个人 AI 助手。支持任意操作系统和平台，龙虾之道。🦞
@@ -68,10 +68,10 @@
 
 ---
 
-## 2. affaan-m/ECC (243k ⭐)
+## 2. affaan-m/ECC (244k ⭐)
 
 **🔗** https://github.com/affaan-m/ECC  
-**🍴** Fork 37k | **🔄** Updated 2026-08-24  
+**🍴** Fork 37k | **🔄** Updated 2026-08-25  
 **👤** Affaan Mustafa — Anthropic 黑客松冠军（100人 1st）、PMX 创始工程师，Agent Harness 领域最具影响力的个人开发者
 
 > Agent Harness 性能优化全栈系统。涵盖 Skills、本能、记忆、安全、研究优先开发流程，为 Claude Code / Codex / Opencode / Cursor 等 agent 提供完整的性能优化方法论。
@@ -80,10 +80,10 @@
 
 ---
 
-## 3. NousResearch/hermes-agent (235k ⭐)
+## 3. NousResearch/hermes-agent (237k ⭐)
 
 **🔗** https://github.com/NousResearch/hermes-agent  
-**🍴** Fork 47k | **🔄** Updated 2026-08-24  
+**🍴** Fork 48k | **🔄** Updated 2026-08-27  
 **👤** Nous Research — 开源 AI 研究团队，以 Hermes 系列模型著称
 
 > 与你共同成长的 Agent。Python 实现，专注开放式 Agent 能力进化。
@@ -92,10 +92,10 @@
 
 ---
 
-## 4. anomalyco/opencode (201k ⭐)
+## 4. anomalyco/opencode (202k ⭐)
 
 **🔗** https://github.com/anomalyco/opencode  
-**🍴** Fork 26k | **🔄** Updated 2026-08-24  
+**🍴** Fork 26k | **🔄** Updated 2026-08-27  
 **👤** Anomaly.co 团队出品，专注 AI 编程工具和开发者平台
 
 > 开源编码 Agent，终端驱动的智能代码助手。
@@ -104,10 +104,10 @@
 
 ---
 
-## 5. deepseek-ai/deepseek-harness (190k ⭐)
+## 5. deepseek-ai/deepseek-harness (199k ⭐)
 
 **🔗** https://github.com/deepseek-ai/deepseek-harness  
-**🍴** Fork 21k | **🔄** Updated 2026-08-21  
+**🍴** Fork 23k | **🔄** Updated 2026-08-21  
 **👤** DeepSeek — DeepSeek Harness 与 Cordis Agent 基础设施团队
 
 > DeepSeek 开源的 Agent Harness，基于 Cordis 构建“一切皆插件”的可组合架构，并提供 Web UI 与插件生态；当前处于 developer preview。
@@ -119,7 +119,7 @@
 ## 6. msitarzewski/agency-agents (148k ⭐)
 
 **🔗** https://github.com/msitarzewski/agency-agents  
-**🍴** Fork 24k | **🔄** Updated 2026-08-06  
+**🍴** Fork 24k | **🔄** Updated 2026-08-26  
 **👤** Michael Sitarzewski — 30+ 年经验的 Builder，Techstars 校友，连续创业者
 
 > 触手可及的完整 AI 代理公司。从前端开发到 Reddit 社区运营，从创意注入到现实检验——每个 Agent 都是拥有个性、流程和可验证交付物的专业专家。
@@ -131,7 +131,7 @@
 ## 7. anthropics/claude-code (143k ⭐)
 
 **🔗** https://github.com/anthropics/claude-code  
-**🍴** Fork 23k | **🔄** Updated 2026-08-23  
+**🍴** Fork 23k | **🔄** Updated 2026-08-26  
 **👤** Anthropic 官方团队出品，AI 安全领域领先研究机构
 
 > Claude Code 是运行于终端的 Agentic 编码工具，理解代码库并通过执行常规任务、解释复杂代码、处理 git 工作流等方式加速开发。
@@ -140,10 +140,10 @@
 
 ---
 
-## 8. github/spec-kit (131k ⭐)
+## 8. github/spec-kit (132k ⭐)
 
 **🔗** https://github.com/github/spec-kit  
-**🍴** Fork 12k | **🔄** Updated 2026-08-21  
+**🍴** Fork 12k | **🔄** Updated 2026-08-27  
 **👤** GitHub 官方团队出品，全球最大代码托管与开发者协作平台
 
 > 💫 Spec-Driven Development 入门工具包。帮助开发者快速上手 spec 驱动开发方法论，Python 实现。
@@ -152,10 +152,10 @@
 
 ---
 
-## 9. garrytan/gstack (129k ⭐)
+## 9. garrytan/gstack (130k ⭐)
 
 **🔗** https://github.com/garrytan/gstack  
-**🍴** Fork 19k | **🔄** Updated 2026-08-22  
+**🍴** Fork 20k | **🔄** Updated 2026-08-26  
 **👤** Garry Tan — YC CEO（Y Combinator 总裁），知名投资人，前 Posterous 创始人
 
 > Garry Tan 的 Claude Code 完整配置：23 个意见鲜明的工具，分别扮演 CEO、设计师、工程经理、发布经理、文档工程师和 QA 角色。TypeScript 实现。
@@ -164,10 +164,10 @@
 
 ---
 
-## 10. openai/codex (117k ⭐)
+## 10. openai/codex (119k ⭐)
 
 **🔗** https://github.com/openai/codex  
-**🍴** Fork 18k | **🔄** Updated 2026-08-24  
+**🍴** Fork 18k | **🔄** Updated 2026-08-27  
 **👤** OpenAI — Codex 开放式编码 Agent 团队
 
 > OpenAI 的轻量终端 coding agent，可在本地代码库中理解任务、编辑文件、运行命令和处理 Git 工作流。
@@ -176,10 +176,10 @@
 
 ---
 
-## 11. earendil-works/pi (96k ⭐)
+## 11. earendil-works/pi (98k ⭐)
 
 **🔗** https://github.com/earendil-works/pi  
-**🍴** Fork 12k | **🔄** Updated 2026-08-24  
+**🍴** Fork 12k | **🔄** Updated 2026-08-27  
 **👤** earendil-works — AI Agent 工具链开发团队
 
 > AI agent 工具包：coding agent CLI、统一 LLM API、TUI & Web UI 库、Slack bot、vLLM pods。TypeScript 实现。
@@ -191,7 +191,7 @@
 ## 12. bytedance/deer-flow (81k ⭐)
 
 **🔗** https://github.com/bytedance/deer-flow  
-**🍴** Fork 11k | **🔄** Updated 2026-08-24  
+**🍴** Fork 11k | **🔄** Updated 2026-08-27  
 **👤** ByteDance — 字节跳动，TikTok/抖音母公司，全球领先的互联网科技公司
 
 > 开源长周期 SuperAgent Harness，集研究、编码、创作于一体。内置沙箱、记忆、工具、Skills 和子 agent 协调，支持多层级 agentic 工作负载。
@@ -203,7 +203,7 @@
 ## 13. shareAI-lab/learn-claude-code (75k ⭐)
 
 **🔗** https://github.com/shareAI-lab/learn-claude-code  
-**🍴** Fork 12k | **🔄** Updated 2026-08-24  
+**🍴** Fork 12k | **🔄** Updated 2026-08-26  
 **👤** shareAI-Lab，专注 AI 技术传播与黑客精神的开放实验室
 
 > Bash is all you need —— 从零到一构建的 nano claude code 式 Agent Harness，教你搞懂 Harness 的本质。TypeScript 实现。
@@ -212,10 +212,10 @@
 
 ---
 
-## 14. ruvnet/ruflo (69k ⭐)
+## 14. ruvnet/ruflo (70k ⭐)
 
 **🔗** https://github.com/ruvnet/ruflo  
-**🍴** Fork 8.3k | **🔄** Updated 2026-08-24  
+**🍴** Fork 8.3k | **🔄** Updated 2026-08-27  
 **👤** ruvnet — Claude 生态活跃建设者，专注多 Agent 编排平台
 
 > Claude 的领先 Agent 编排平台。部署智能多 Agent 集群、协调自主工作流、构建对话式 AI 系统。TypeScript 实现。
@@ -227,7 +227,7 @@
 ## 15. code-yeongyu/oh-my-openagent (68k ⭐)
 
 **🔗** https://github.com/code-yeongyu/oh-my-openagent  
-**🍴** Fork 5.6k | **🔄** Updated 2026-08-24  
+**🍴** Fork 5.6k | **🔄** Updated 2026-08-27  
 **👤** YeonGyu-Kim，@sionic-ai 工程师，黑客风格的独立开发者
 
 > omo：最好的 Agent Harness（前身为 oh-my-opencode）。TypeScript 实现。
@@ -239,7 +239,7 @@
 ## 16. Fission-AI/OpenSpec (66k ⭐)
 
 **🔗** https://github.com/Fission-AI/OpenSpec  
-**🍴** Fork 4.5k | **🔄** Updated 2026-08-24  
+**🍴** Fork 4.6k | **🔄** Updated 2026-08-26  
 **👤** Fission AI — 专注 Spec 驱动开发（SDD）方法论的 AI 创业公司
 
 > 面向 AI coding assistant 的 Spec-Driven Development（SDD）框架。TypeScript 实现。
@@ -251,7 +251,7 @@
 ## 17. shanraisshan/claude-code-best-practice (65k ⭐)
 
 **🔗** https://github.com/shanraisshan/claude-code-best-practice  
-**🍴** Fork 6.5k | **🔄** Updated 2026-08-24  
+**🍴** Fork 6.5k | **🔄** Updated 2026-08-27  
 **👤** Shan Raisshan — 独立开发者，专注 Claude Code 工程实践整理
 
 > 从 vibe coding 到 agentic engineering —— practice makes claude perfect. HTML 实现。
@@ -260,10 +260,10 @@
 
 ---
 
-## 18. pbakaus/impeccable (62k ⭐)
+## 18. pbakaus/impeccable (63k ⭐)
 
 **🔗** https://github.com/pbakaus/impeccable  
-**🍴** Fork 3.8k | **🔄** Updated 2026-08-24  
+**🍴** Fork 3.9k | **🔄** Updated 2026-08-27  
 **👤** Paul Bakaus — jQuery UI 创始作者、Google Creative Technologist，Impeccable 作者
 
 > 面向 AI coding agent 的前端设计语言与质量工具，提供 1 个 Skill、23 个设计命令、浏览器实时迭代和 60 条确定性检测规则，减少同质化 AI 界面。
@@ -275,7 +275,7 @@
 ## 19. bmad-code-org/BMAD-METHOD (52k ⭐)
 
 **🔗** https://github.com/bmad-code-org/BMAD-METHOD  
-**🍴** Fork 6k | **🔄** Updated 2026-08-23  
+**🍴** Fork 6k | **🔄** Updated 2026-08-27  
 **👤** BMAD 团队 — 专注 AI 驱动敏捷开发方法论的开源组织
 
 > Breakthrough Method for Agile AI Driven Development。AI 驱动敏捷开发的突破性方法论，JavaScript 实现。
@@ -284,10 +284,10 @@
 
 ---
 
-## 20. bojieli/ai-agent-book (42k ⭐)
+## 20. bojieli/ai-agent-book (43k ⭐)
 
 **🔗** https://github.com/bojieli/ai-agent-book  
-**🍴** Fork 4.6k | **🔄** Updated 2026-08-24  
+**🍴** Fork 4.7k | **🔄** Updated 2026-08-27  
 **👤** 李博杰（Bojie Li）— Pine AI 首席科学家，AI Agent 工程实践作者
 
 > 《深入理解 AI Agent：设计原理与工程实践》开源主仓，提供全书正文、PDF 与章节配套代码，系统覆盖 Agent 设计和工程落地。
@@ -299,7 +299,7 @@
 ## 21. Yeachan-Heo/oh-my-claudecode (39k ⭐)
 
 **🔗** https://github.com/Yeachan-Heo/oh-my-claudecode  
-**🍴** Fork 3.5k | **🔄** Updated 2026-08-24  
+**🍴** Fork 3.5k | **🔄** Updated 2026-08-27  
 **👤** YeaChan Heo — Sionic AI 工程师，专注多 Agent 团队协作编排
 
 > 面向团队的 Claude Code 多 Agent 编排系统。TypeScript 实现，专注 Claude Code 的团队级多 agent 协同。
@@ -308,10 +308,10 @@
 
 ---
 
-## 22. tinyhumansai/openhuman (37k ⭐)
+## 22. tinyhumansai/openhuman (38k ⭐)
 
 **🔗** https://github.com/tinyhumansai/openhuman  
-**🍴** Fork 3.7k | **🔄** Updated 2026-08-24  
+**🍴** Fork 3.8k | **🔄** Updated 2026-08-27  
 **👤** Tiny Humans AI — 致力于为每个人构建 AI 驱动的数字分身
 
 > 你的个人 AI 超级智能。私密、简洁、极其强大。
@@ -323,7 +323,7 @@
 ## 23. esengine/DeepSeek-Reasonix (35k ⭐)
 
 **🔗** https://github.com/esengine/DeepSeek-Reasonix  
-**🍴** Fork 2.3k | **🔄** Updated 2026-08-24  
+**🍴** Fork 2.4k | **🔄** Updated 2026-08-27  
 **👤** esengine — DeepSeek 生态开发者，专注 AI coding agent 工程化
 
 > DeepSeek 原生 AI coding agent，围绕 prefix-cache 稳定性工程化。
@@ -335,7 +335,7 @@
 ## 24. conductor-oss/conductor (32k ⭐)
 
 **🔗** https://github.com/conductor-oss/conductor  
-**🍴** Fork 993 | **🔄** Updated 2026-08-22  
+**🍴** Fork 993 | **🔄** Updated 2026-08-27  
 **👤** Conductor OSS — 开源工作流引擎项目，脱胎于 Netflix Conductor
 
 > 事件驱动的 Agentic 工作流引擎，为应用和 AI Agent 提供持久化、高弹性的执行引擎。Java 实现。
@@ -359,7 +359,7 @@
 ## 26. Kilo-Org/kilocode (27k ⭐)
 
 **🔗** https://github.com/Kilo-Org/kilocode  
-**🍴** Fork 3.1k | **🔄** Updated 2026-08-24  
+**🍴** Fork 3.1k | **🔄** Updated 2026-08-27  
 **👤** Kilo-Org — 开源开发者
 
 > 一站式 Agentic 工程平台，集成最受欢迎的开源 coding agent，覆盖构建、发布与迭代全流程。
@@ -371,7 +371,7 @@
 ## 27. xai-org/grok-build (26k ⭐)
 
 **🔗** https://github.com/xai-org/grok-build  
-**🍴** Fork 4.9k | **🔄** Updated 2026-08-23  
+**🍴** Fork 4.9k | **🔄** Updated 2026-08-25  
 **👤** SpaceXAI Org — Grok Build coding agent 团队
 
 > SpaceXAI 的全屏交互式 coding agent harness 与 TUI，强调鼠标操作、可扩展工具能力及终端内的开发闭环。
@@ -380,7 +380,7 @@
 
 ---
 
-## 28. humanlayer/12-factor-agents (25k ⭐)
+## 28. humanlayer/12-factor-agents (26k ⭐)
 
 **🔗** https://github.com/humanlayer/12-factor-agents  
 **🍴** Fork 1.9k | **🔄** Updated 2025-09-21  
@@ -392,10 +392,10 @@
 
 ---
 
-## 29. TencentCloud/TencentDB-Agent-Memory (24k ⭐)
+## 29. TencentCloud/TencentDB-Agent-Memory (25k ⭐)
 
 **🔗** https://github.com/TencentCloud/TencentDB-Agent-Memory  
-**🍴** Fork 2.2k | **🔄** Updated 2026-08-15  
+**🍴** Fork 2.3k | **🔄** Updated 2026-08-27  
 **👤** 腾讯云（Tencent Cloud）— TencentDB Agent Memory 开源团队
 
 > 面向 Agent 团队的记忆中枢，把对话、文档和代码转化为 Chat Memory、Skill、LLM Wiki 与 Code Graph 四类可治理、共享和跨框架复用的记忆资产。
@@ -407,7 +407,7 @@
 ## 30. agentsmd/agents.md (24k ⭐)
 
 **🔗** https://github.com/agentsmd/agents.md  
-**🍴** Fork 1.8k | **🔄** Updated 2026-03-12  
+**🍴** Fork 1.8k | **🔄** Updated 2026-08-25  
 **👤** agentsmd — 开源开发者
 
 > 面向 coding agent 的开放配置格式 AGENTS.md，用简单 Markdown 为 Agent 提供项目级行为指引与上下文。
@@ -419,7 +419,7 @@
 ## 31. different-ai/openwork (23k ⭐)
 
 **🔗** https://github.com/different-ai/openwork  
-**🍴** Fork 2.3k | **🔄** Updated 2026-08-24  
+**🍴** Fork 2.3k | **🔄** Updated 2026-08-27  
 **👤** Different AI — OpenWork 开源 AI 工作流平台团队
 
 > 开源跨平台 AI 工作流桌面应用与 MCP 接入层，可在 Codex、Claude Code、Cursor 等 Agent 间复用 Skills、MCP 和连接服务，并支持团队分发与权限管理。
@@ -440,10 +440,10 @@
 
 ---
 
-## 33. 1jehuang/jcode (18k ⭐)
+## 33. 1jehuang/jcode (19k ⭐)
 
 **🔗** https://github.com/1jehuang/jcode  
-**🍴** Fork 2.1k | **🔄** Updated 2026-08-24  
+**🍴** Fork 2.1k | **🔄** Updated 2026-08-27  
 **👤** Jeremy Huang（1jehuang）— jcode coding agent 作者
 
 > Rust 实现的终端 coding agent harness，集成 TUI、MCP 与多模型能力，面向在本地工程中执行智能编码任务。
@@ -467,7 +467,7 @@
 ## 35. chenhg5/cc-connect (15k ⭐)
 
 **🔗** https://github.com/chenhg5/cc-connect  
-**🍴** Fork 1.5k | **🔄** Updated 2026-08-24  
+**🍴** Fork 1.5k | **🔄** Updated 2026-08-26  
 **👤** chenhg5 — 开源开发者
 
 > 将 Claude Code、Cursor、Gemini CLI、Codex 等本地 coding agent 桥接到飞书、钉钉、Slack、Telegram 等 IM，随时远程驱动开发。
@@ -479,7 +479,7 @@
 ## 36. mindfold-ai/Trellis (14k ⭐)
 
 **🔗** https://github.com/mindfold-ai/Trellis  
-**🍴** Fork 793 | **🔄** Updated 2026-08-21  
+**🍴** Fork 798 | **🔄** Updated 2026-08-27  
 **👤** mindfold-ai — 开源开发者
 
 > 高性能 Agent Harness 运行时，提供完整 agentic 工作流与多工具集成，文档见 docs.trytrellis.app。
@@ -491,7 +491,7 @@
 ## 37. yc-software/qm (14k ⭐)
 
 **🔗** https://github.com/yc-software/qm  
-**🍴** Fork 1.7k | **🔄** Updated 2026-08-22  
+**🍴** Fork 1.7k | **🔄** Updated 2026-08-27  
 **👤** Y Combinator（yc-software）— QM 团队协作 Agent Harness 团队
 
 > 面向团队协作的多人 Agent Harness，通过 Slack 和 Web 提供个人与共享空间、范围化记忆和权限、持久沙箱及后台任务，并可切换 Pi、OpenCode、Codex、Claude Code 等 Harness。
@@ -503,7 +503,7 @@
 ## 38. lsdefine/GenericAgent (14k ⭐)
 
 **🔗** https://github.com/lsdefine/GenericAgent  
-**🍴** Fork 1.6k | **🔄** Updated 2026-08-24  
+**🍴** Fork 1.6k | **🔄** Updated 2026-08-25  
 **👤** lsdefine — 开源开发者
 
 > 自进化 Agent Harness：从 3.3K 行种子代码生长技能树，以更低 Token 消耗实现系统级控制与自主扩展。
@@ -515,7 +515,7 @@
 ## 39. livekit/agents (13k ⭐)
 
 **🔗** https://github.com/livekit/agents  
-**🍴** Fork 3.6k | **🔄** Updated 2026-08-24  
+**🍴** Fork 3.6k | **🔄** Updated 2026-08-27  
 **👤** LiveKit — 开源 WebRTC 与实时 AI 基础设施团队
 
 > 用于构建实时语音与多模态 AI Agent 的服务端框架，集成 STT、LLM、TTS、WebRTC、电话、任务调度、MCP 与测试能力。
@@ -539,7 +539,7 @@
 ## 41. holaboss-ai/holaOS (11k ⭐)
 
 **🔗** https://github.com/holaboss-ai/holaOS  
-**🍴** Fork 711 | **🔄** Updated 2026-08-21  
+**🍴** Fork 714 | **🔄** Updated 2026-08-21  
 **👤** holaboss-ai — 开源开发者
 
 > 本地优先的超级工作 Agent，数分钟内学习你的工作上下文并持续记忆，适合个人知识工作者日常协作。
@@ -551,7 +551,7 @@
 ## 42. langchain-ai/open-swe (11k ⭐)
 
 **🔗** https://github.com/langchain-ai/open-swe  
-**🍴** Fork 1.2k | **🔄** Updated 2026-08-24  
+**🍴** Fork 1.2k | **🔄** Updated 2026-08-27  
 **👤** LangChain — open-swe 异步 coding agent 团队
 
 > LangChain 开源异步 coding agent，支持长周期自主 issue/PR 工作流与 sandbox 执行。
@@ -563,12 +563,12 @@
 
 ### 🦞 Harness 框架与运行时
 
-- [openclaw](#1-openclawopenclaw-387k-) — 你自己的个人 AI 助手
-- [ECC](#2-affaan-mecc-243k-) — Agent Harness 性能优化全栈系统
-- [opencode](#4-anomalycoopencode-201k-) — 开源编码 Agent，终端驱动的智能代码助手
+- [openclaw](#1-openclawopenclaw-388k-) — 你自己的个人 AI 助手
+- [ECC](#2-affaan-mecc-244k-) — Agent Harness 性能优化全栈系统
+- [opencode](#4-anomalycoopencode-202k-) — 开源编码 Agent，终端驱动的智能代码助手
 - [claude-code](#7-anthropicsclaude-code-143k-) — Claude Code 是运行于终端的 Agentic 编码工具，理解代码库并通过执行常规任务、解释复杂代码、处理 gi…
-- [gstack](#9-garrytangstack-129k-) — Garry Tan 的 Claude Code 完整配置：23 个意见鲜明的工具，分别扮演 CEO、设计师、工程经理、发…
-- [pi](#11-earendil-workspi-96k-) — AI agent 工具包：coding agent CLI、统一 LLM API、TUI & Web UI 库、Slac…
+- [gstack](#9-garrytangstack-130k-) — Garry Tan 的 Claude Code 完整配置：23 个意见鲜明的工具，分别扮演 CEO、设计师、工程经理、发…
+- [pi](#11-earendil-workspi-98k-) — AI agent 工具包：coding agent CLI、统一 LLM API、TUI & Web UI 库、Slac…
 - [deer-flow](#12-bytedancedeer-flow-81k-) — 开源长周期 SuperAgent Harness，集研究、编码、创作于一体
 - [learn-claude-code](#13-shareai-lablearn-claude-code-75k-) — Bash is all you need —— 从零到一构建的 nano claude code 式 Agent Har…
 - [oh-my-openagent](#15-code-yeongyuoh-my-openagent-68k-) — omo：最好的 Agent Harness（前身为 oh-my-opencode）
@@ -580,38 +580,38 @@
 
 ### 🔀 多 Agent 编排
 
-- [hermes-agent](#3-nousresearchhermes-agent-235k-) — 与你共同成长的 Agent
+- [hermes-agent](#3-nousresearchhermes-agent-237k-) — 与你共同成长的 Agent
 - [agency-agents](#6-msitarzewskiagency-agents-148k-) — 触手可及的完整 AI 代理公司
 - [ralph](#32-snarktankralph-22k-) — 自主 Agent 循环框架：按 PRD 条目反复执行直至全部完成，适合长周期、无人值守的 feature 交付
 - [hive](#40-aden-hivehive-11k-) — 面向生产环境的多 Agent Harness，Python 实现，强调可靠编排、权限控制与可部署性
 
 ### 📋 工作流与 Spec 驱动
 
-- [ECC](#2-affaan-mecc-243k-) — Agent Harness 性能优化全栈系统
-- [spec-kit](#8-githubspec-kit-131k-) — 💫 Spec-Driven Development 入门工具包
+- [ECC](#2-affaan-mecc-244k-) — Agent Harness 性能优化全栈系统
+- [spec-kit](#8-githubspec-kit-132k-) — 💫 Spec-Driven Development 入门工具包
 - [learn-claude-code](#13-shareai-lablearn-claude-code-75k-) — Bash is all you need —— 从零到一构建的 nano claude code 式 Agent Har…
 - [OpenSpec](#16-fission-aiopenspec-66k-) — 面向 AI coding assistant 的 Spec-Driven Development（SDD）框架
-- [impeccable](#18-pbakausimpeccable-62k-) — 面向 AI coding agent 的前端设计语言与质量工具，提供 1 个 Skill、23 个设计命令、浏览器实时迭…
+- [impeccable](#18-pbakausimpeccable-63k-) — 面向 AI coding agent 的前端设计语言与质量工具，提供 1 个 Skill、23 个设计命令、浏览器实时迭…
 - [BMAD-METHOD](#19-bmad-code-orgbmad-method-52k-) — Breakthrough Method for Agile AI Driven Development
 - [Trellis](#36-mindfold-aitrellis-14k-) — 高性能 Agent Harness 运行时，提供完整 agentic 工作流与多工具集成，文档见 docs.trytre…
 
 ### 🌐 生态与最佳实践
 
-- [deepseek-harness](#5-deepseek-aideepseek-harness-190k-) — DeepSeek 开源的 Agent Harness，基于 Cordis 构建“一切皆插件”的可组合架构，并提供 Web…
-- [codex](#10-openaicodex-117k-) — OpenAI 的轻量终端 coding agent，可在本地代码库中理解任务、编辑文件、运行命令和处理 Git 工作流
-- [ruflo](#14-ruvnetruflo-69k-) — Claude 的领先 Agent 编排平台
+- [deepseek-harness](#5-deepseek-aideepseek-harness-199k-) — DeepSeek 开源的 Agent Harness，基于 Cordis 构建“一切皆插件”的可组合架构，并提供 Web…
+- [codex](#10-openaicodex-119k-) — OpenAI 的轻量终端 coding agent，可在本地代码库中理解任务、编辑文件、运行命令和处理 Git 工作流
+- [ruflo](#14-ruvnetruflo-70k-) — Claude 的领先 Agent 编排平台
 - [claude-code-best-practice](#17-shanraisshanclaude-code-best-practice-65k-) — 从 vibe coding 到 agentic engineering —— practice makes claude…
-- [ai-agent-book](#20-bojieliai-agent-book-42k-) — 《深入理解 AI Agent：设计原理与工程实践》开源主仓，提供全书正文、PDF 与章节配套代码，系统覆盖 Agent …
-- [openhuman](#22-tinyhumansaiopenhuman-37k-) — 你的个人 AI 超级智能
+- [ai-agent-book](#20-bojieliai-agent-book-43k-) — 《深入理解 AI Agent：设计原理与工程实践》开源主仓，提供全书正文、PDF 与章节配套代码，系统覆盖 Agent …
+- [openhuman](#22-tinyhumansaiopenhuman-38k-) — 你的个人 AI 超级智能
 - [DeepSeek-Reasonix](#23-esenginedeepseek-reasonix-35k-) — DeepSeek 原生 AI coding agent，围绕 prefix-cache 稳定性工程化
 - [conductor](#24-conductor-ossconductor-32k-) — 事件驱动的 Agentic 工作流引擎，为应用和 AI Agent 提供持久化、高弹性的执行引擎
 - [awesome-ai-agents](#25-e2b-devawesome-ai-agents-30k-) — AI 自主 Agent 精选列表
 - [grok-build](#27-xai-orggrok-build-26k-) — SpaceXAI 的全屏交互式 coding agent harness 与 TUI，强调鼠标操作、可扩展工具能力及终端…
-- [12-factor-agents](#28-humanlayer12-factor-agents-25k-) — 构建可上线 LLM 应用的 12 条原则，涵盖上下文、工具、人机协同与生产可靠性（Harness 设计方法论）
-- [TencentDB-Agent-Memory](#29-tencentcloudtencentdb-agent-memory-24k-) — 面向 Agent 团队的记忆中枢，把对话、文档和代码转化为 Chat Memory、Skill、LLM Wiki 与 C…
+- [12-factor-agents](#28-humanlayer12-factor-agents-26k-) — 构建可上线 LLM 应用的 12 条原则，涵盖上下文、工具、人机协同与生产可靠性（Harness 设计方法论）
+- [TencentDB-Agent-Memory](#29-tencentcloudtencentdb-agent-memory-25k-) — 面向 Agent 团队的记忆中枢，把对话、文档和代码转化为 Chat Memory、Skill、LLM Wiki 与 C…
 - [agents.md](#30-agentsmdagents.md-24k-) — 面向 coding agent 的开放配置格式 AGENTS.md，用简单 Markdown 为 Agent 提供项目级…
 - [openwork](#31-different-aiopenwork-23k-) — 开源跨平台 AI 工作流桌面应用与 MCP 接入层，可在 Codex、Claude Code、Cursor 等 Agen…
-- [jcode](#33-1jehuangjcode-18k-) — Rust 实现的终端 coding agent harness，集成 TUI、MCP 与多模型能力，面向在本地工程中执行…
+- [jcode](#33-1jehuangjcode-19k-) — Rust 实现的终端 coding agent harness，集成 TUI、MCP 与多模型能力，面向在本地工程中执行…
 - [cc-connect](#35-chenhg5cc-connect-15k-) — 将 Claude Code、Cursor、Gemini CLI、Codex 等本地 coding agent 桥接到飞书…
 - [GenericAgent](#38-lsdefinegenericagent-14k-) — 自进化 Agent Harness：从 3.3K 行种子代码生长技能树，以更低 Token 消耗实现系统级控制与自主扩展
 - [agents](#39-livekitagents-13k-) — 用于构建实时语音与多模态 AI Agent 的服务端框架，集成 STT、LLM、TTS、WebRTC、电话、任务调度、M…
@@ -636,4 +636,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-08-24*
+*由 wind8 整理 | 2026-08-27*
