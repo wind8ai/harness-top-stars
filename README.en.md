@@ -3,26 +3,26 @@
 [中文](./README.md) | **English** · [Overflow](./README.en.overflow.md)
 
 > Curated High-Star Agent Harness Projects on GitHub  
-> Source: [wind8ai harness list](https://github.com/stars/wind8ai/lists/harness) · Updated: 2026-11-01
+> Source: [wind8ai harness list](https://github.com/stars/wind8ai/lists/harness) · Updated: 2026-11-03
 
 ---
 
 ## Contents
 
 01. [openclaw/openclaw (394k ⭐)](#1-openclawopenclaw-394k-)
-02. [affaan-m/ECC (294k ⭐)](#2-affaan-mecc-294k-)
-03. [deepseek-ai/deepseek-harness (267k ⭐)](#3-deepseek-aideepseek-harness-267k-)
-04. [NousResearch/hermes-agent (259k ⭐)](#4-nousresearchhermes-agent-259k-)
+02. [affaan-m/ECC (296k ⭐)](#2-affaan-mecc-296k-)
+03. [deepseek-ai/deepseek-harness (270k ⭐)](#3-deepseek-aideepseek-harness-270k-)
+04. [NousResearch/hermes-agent (260k ⭐)](#4-nousresearchhermes-agent-260k-)
 05. [anomalyco/opencode (224k ⭐)](#5-anomalycoopencode-224k-)
 06. [msitarzewski/agency-agents (166k ⭐)](#6-msitarzewskiagency-agents-166k-)
 07. [anthropics/claude-code (154k ⭐)](#7-anthropicsclaude-code-154k-)
-08. [github/spec-kit (144k ⭐)](#8-githubspec-kit-144k-)
-09. [garrytan/gstack (138k ⭐)](#9-garrytangstack-138k-)
+08. [github/spec-kit (146k ⭐)](#8-githubspec-kit-146k-)
+09. [garrytan/gstack (139k ⭐)](#9-garrytangstack-139k-)
 10. [openai/codex (133k ⭐)](#10-openaicodex-133k-)
-11. [earendil-works/pi (119k ⭐)](#11-earendil-workspi-119k-)
-12. [pbakaus/impeccable (98k ⭐)](#12-pbakausimpeccable-98k-)
+11. [earendil-works/pi (120k ⭐)](#11-earendil-workspi-120k-)
+12. [pbakaus/impeccable (101k ⭐)](#12-pbakausimpeccable-101k-)
 13. [bytedance/deer-flow (85k ⭐)](#13-bytedancedeer-flow-85k-)
-14. [ruvnet/ruflo (80k ⭐)](#14-ruvnetruflo-80k-)
+14. [ruvnet/ruflo (81k ⭐)](#14-ruvnetruflo-81k-)
 15. [shareAI-lab/learn-claude-code (80k ⭐)](#15-shareai-lablearn-claude-code-80k-)
 16. [Fission-AI/OpenSpec (74k ⭐)](#16-fission-aiopenspec-74k-)
 17. [code-yeongyu/oh-my-openagent (71k ⭐)](#17-code-yeongyuoh-my-openagent-71k-)
@@ -30,8 +30,8 @@
 19. [bojieli/ai-agent-book (57k ⭐)](#19-bojieliai-agent-book-57k-)
 20. [bmad-code-org/BMAD-METHOD (55k ⭐)](#20-bmad-code-orgbmad-method-55k-)
 21. [agno-agi/agno (43k ⭐)](#21-agno-agiagno-43k-)
-22. [tinyhumansai/openhuman (42k ⭐)](#22-tinyhumansaiopenhuman-42k-)
-23. [Yeachan-Heo/oh-my-claudecode (40k ⭐)](#23-yeachan-heooh-my-claudecode-40k-)
+22. [tinyhumansai/openhuman (43k ⭐)](#22-tinyhumansaiopenhuman-43k-)
+23. [Yeachan-Heo/oh-my-claudecode (41k ⭐)](#23-yeachan-heooh-my-claudecode-41k-)
 24. [esengine/DeepSeek-Reasonix (36k ⭐)](#24-esenginedeepseek-reasonix-36k-)
 25. [conductor-oss/conductor (32k ⭐)](#25-conductor-ossconductor-32k-)
 26. [e2b-dev/awesome-ai-agents (31k ⭐)](#26-e2b-devawesome-ai-agents-31k-)
@@ -59,7 +59,7 @@
 ## 1. openclaw/openclaw (394k ⭐)
 
 **🔗** https://github.com/openclaw/openclaw  
-**🍴** Forks 83k | **🔄** Updated 2026-11-01  
+**🍴** Forks 83k | **🔄** Updated 2026-11-03  
 **👤** OpenClaw official team, the leading open-source project in personal AI assistants
 
 > Your own personal AI assistant. Any OS. Any platform. The lobster way. 🦞
@@ -68,10 +68,10 @@
 
 ---
 
-## 2. affaan-m/ECC (294k ⭐)
+## 2. affaan-m/ECC (296k ⭐)
 
 **🔗** https://github.com/affaan-m/ECC  
-**🍴** Forks 44k | **🔄** Updated 2026-10-30  
+**🍴** Forks 44k | **🔄** Updated 2026-11-02  
 **👤** Affaan Mustafa — Anthropic Hackathon Champion (1st of 100), PMX founding engineer, most influential individual developer in the Agent Harness space
 
 > Full-stack agent harness performance optimization system. Covers Skills, instincts, memory, security, and research-first development workflow for Claude Code / Codex / Opencode / Cursor and beyond.
@@ -80,10 +80,10 @@
 
 ---
 
-## 3. deepseek-ai/deepseek-harness (267k ⭐)
+## 3. deepseek-ai/deepseek-harness (270k ⭐)
 
 **🔗** https://github.com/deepseek-ai/deepseek-harness  
-**🍴** Forks 32k | **🔄** Updated 2026-10-30  
+**🍴** Forks 33k | **🔄** Updated 2026-10-30  
 **👤** DeepSeek — team behind DeepSeek Harness and Cordis-based agent infrastructure
 
 > DeepSeek's open-source agent harness, built on Cordis around an everything-is-a-plugin composable architecture with a web UI and plugin ecosystem; currently in developer preview.
@@ -92,10 +92,10 @@
 
 ---
 
-## 4. NousResearch/hermes-agent (259k ⭐)
+## 4. NousResearch/hermes-agent (260k ⭐)
 
 **🔗** https://github.com/NousResearch/hermes-agent  
-**🍴** Forks 57k | **🔄** Updated 2026-11-01  
+**🍴** Forks 57k | **🔄** Updated 2026-11-03  
 **👤** Nous Research — open-source AI research team, known for the Hermes model series
 
 > An Agent that grows with you. Python implementation, focused on open-ended Agent capability evolution.
@@ -107,7 +107,7 @@
 ## 5. anomalyco/opencode (224k ⭐)
 
 **🔗** https://github.com/anomalyco/opencode  
-**🍴** Forks 30k | **🔄** Updated 2026-11-01  
+**🍴** Forks 30k | **🔄** Updated 2026-11-03  
 **👤** Anomaly.co team, focused on AI coding tools and developer platforms
 
 > Open-source coding agent, terminal-driven intelligent code assistant.
@@ -131,7 +131,7 @@
 ## 7. anthropics/claude-code (154k ⭐)
 
 **🔗** https://github.com/anthropics/claude-code  
-**🍴** Forks 26k | **🔄** Updated 2026-10-31  
+**🍴** Forks 26k | **🔄** Updated 2026-11-03  
 **👤** Anthropic official team, leading AI safety research institution
 
 > Claude Code is an agentic coding tool running in your terminal. It understands your codebase and accelerates development by executing routine tasks, explaining complex code, and handling git workflows.
@@ -140,10 +140,10 @@
 
 ---
 
-## 8. github/spec-kit (144k ⭐)
+## 8. github/spec-kit (146k ⭐)
 
 **🔗** https://github.com/github/spec-kit  
-**🍴** Forks 13k | **🔄** Updated 2026-10-30  
+**🍴** Forks 13k | **🔄** Updated 2026-11-02  
 **👤** GitHub official team, the world's largest code hosting and developer collaboration platform
 
 > 💫 Spec-Driven Development starter toolkit. Helps developers quickly get started with the spec-driven development methodology. Python implementation.
@@ -152,10 +152,10 @@
 
 ---
 
-## 9. garrytan/gstack (138k ⭐)
+## 9. garrytan/gstack (139k ⭐)
 
 **🔗** https://github.com/garrytan/gstack  
-**🍴** Forks 21k | **🔄** Updated 2026-11-01  
+**🍴** Forks 21k | **🔄** Updated 2026-11-03  
 **👤** Garry Tan — YC CEO (Y Combinator President), renowned investor, former Posterous founder
 
 > Garry Tan's complete Claude Code setup: 23 opinionated tools playing roles of CEO, designer, engineering manager, release manager, documentation engineer, and QA. TypeScript implementation.
@@ -167,7 +167,7 @@
 ## 10. openai/codex (133k ⭐)
 
 **🔗** https://github.com/openai/codex  
-**🍴** Forks 21k | **🔄** Updated 2026-10-31  
+**🍴** Forks 21k | **🔄** Updated 2026-11-03  
 **👤** OpenAI — team behind the Codex coding agent
 
 > OpenAI's lightweight terminal coding agent for understanding tasks in local codebases, editing files, running commands, and handling Git workflows.
@@ -176,10 +176,10 @@
 
 ---
 
-## 11. earendil-works/pi (119k ⭐)
+## 11. earendil-works/pi (120k ⭐)
 
 **🔗** https://github.com/earendil-works/pi  
-**🍴** Forks 15k | **🔄** Updated 2026-11-01  
+**🍴** Forks 15k | **🔄** Updated 2026-11-02  
 **👤** earendil-works — AI Agent toolchain development team
 
 > AI agent toolkit: coding agent CLI, unified LLM API, TUI & Web UI libraries, Slack bot, vLLM pods. TypeScript implementation.
@@ -188,10 +188,10 @@
 
 ---
 
-## 12. pbakaus/impeccable (98k ⭐)
+## 12. pbakaus/impeccable (101k ⭐)
 
 **🔗** https://github.com/pbakaus/impeccable  
-**🍴** Forks 5.8k | **🔄** Updated 2026-10-31  
+**🍴** Forks 5.9k | **🔄** Updated 2026-11-02  
 **👤** Paul Bakaus — creator of jQuery UI, Creative Technologist at Google, and author of Impeccable
 
 > Frontend design language and quality toolkit for AI coding agents, with one skill, 23 design commands, live browser iteration, and 60 deterministic detector rules.
@@ -203,7 +203,7 @@
 ## 13. bytedance/deer-flow (85k ⭐)
 
 **🔗** https://github.com/bytedance/deer-flow  
-**🍴** Forks 12k | **🔄** Updated 2026-11-01  
+**🍴** Forks 12k | **🔄** Updated 2026-11-02  
 **👤** ByteDance — parent company of TikTok/Douyin, global leading internet technology company
 
 > Open-source long-horizon SuperAgent harness for research, coding, and creation. Built-in sandbox, memory, tools, Skills, and sub-agent coordination, supporting multi-level agentic workloads.
@@ -212,10 +212,10 @@
 
 ---
 
-## 14. ruvnet/ruflo (80k ⭐)
+## 14. ruvnet/ruflo (81k ⭐)
 
 **🔗** https://github.com/ruvnet/ruflo  
-**🍴** Forks 9.4k | **🔄** Updated 2026-11-01  
+**🍴** Forks 9.5k | **🔄** Updated 2026-11-02  
 **👤** ruvnet — active Claude ecosystem builder, focused on multi-agent orchestration platforms
 
 > Leading Agent orchestration platform for Claude. Deploy intelligent multi-Agent clusters, coordinate autonomous workflows, and build conversational AI systems. TypeScript implementation.
@@ -239,7 +239,7 @@
 ## 16. Fission-AI/OpenSpec (74k ⭐)
 
 **🔗** https://github.com/Fission-AI/OpenSpec  
-**🍴** Forks 5k | **🔄** Updated 2026-10-30  
+**🍴** Forks 5k | **🔄** Updated 2026-11-03  
 **👤** Fission AI — AI startup focused on Spec-Driven Development (SDD) methodology
 
 > Spec-Driven Development (SDD) framework for AI coding assistants. TypeScript implementation.
@@ -251,7 +251,7 @@
 ## 17. code-yeongyu/oh-my-openagent (71k ⭐)
 
 **🔗** https://github.com/code-yeongyu/oh-my-openagent  
-**🍴** Forks 5.8k | **🔄** Updated 2026-11-01  
+**🍴** Forks 5.8k | **🔄** Updated 2026-11-03  
 **👤** YeonGyu-Kim — @sionic-ai engineer, hacker-style independent developer
 
 > omo: the best Agent Harness (formerly oh-my-opencode). TypeScript implementation.
@@ -263,7 +263,7 @@
 ## 18. shanraisshan/claude-code-best-practice (68k ⭐)
 
 **🔗** https://github.com/shanraisshan/claude-code-best-practice  
-**🍴** Forks 6.8k | **🔄** Updated 2026-10-31  
+**🍴** Forks 6.8k | **🔄** Updated 2026-11-02  
 **👤** Shan Raisshan — independent developer focused on Claude Code engineering practices
 
 > From vibe coding to agentic engineering — practice makes claude perfect. HTML implementation.
@@ -275,7 +275,7 @@
 ## 19. bojieli/ai-agent-book (57k ⭐)
 
 **🔗** https://github.com/bojieli/ai-agent-book  
-**🍴** Forks 6.5k | **🔄** Updated 2026-10-08  
+**🍴** Forks 6.6k | **🔄** Updated 2026-10-08  
 **👤** Bojie Li — Chief Scientist at Pine AI and author of the AI agent engineering book
 
 > Open-source home for Understanding AI Agents — Design Principles and Engineering Practice, including the full text, PDF, and chapter-by-chapter code.
@@ -287,7 +287,7 @@
 ## 20. bmad-code-org/BMAD-METHOD (55k ⭐)
 
 **🔗** https://github.com/bmad-code-org/BMAD-METHOD  
-**🍴** Forks 6.1k | **🔄** Updated 2026-11-01  
+**🍴** Forks 6.1k | **🔄** Updated 2026-11-03  
 **👤** BMAD team — open-source organization focused on AI-driven agile development methodology
 
 > Breakthrough Method for Agile AI Driven Development. JavaScript implementation.
@@ -299,7 +299,7 @@
 ## 21. agno-agi/agno (43k ⭐)
 
 **🔗** https://github.com/agno-agi/agno  
-**🍴** Forks 6.2k | **🔄** Updated 2026-10-31  
+**🍴** Forks 6.2k | **🔄** Updated 2026-11-02  
 **👤** Agno — team behind the Agno and AgentOS agent platform
 
 > Python framework and runtime for building, running, and managing agent platforms through the Agno SDK, AgentOS runtime, and web UI, with persistent storage, memory, integrations, human approval, observability, access control, and multi-channel interfaces.
@@ -308,10 +308,10 @@
 
 ---
 
-## 22. tinyhumansai/openhuman (42k ⭐)
+## 22. tinyhumansai/openhuman (43k ⭐)
 
 **🔗** https://github.com/tinyhumansai/openhuman  
-**🍴** Forks 4.2k | **🔄** Updated 2026-10-31  
+**🍴** Forks 4.2k | **🔄** Updated 2026-11-02  
 **👤** Tiny Humans AI — building AI-powered digital twins for everyone
 
 > Your personal AI super intelligence. Private, simple, and extremely powerful.
@@ -320,10 +320,10 @@
 
 ---
 
-## 23. Yeachan-Heo/oh-my-claudecode (40k ⭐)
+## 23. Yeachan-Heo/oh-my-claudecode (41k ⭐)
 
 **🔗** https://github.com/Yeachan-Heo/oh-my-claudecode  
-**🍴** Forks 3.6k | **🔄** Updated 2026-11-01  
+**🍴** Forks 3.6k | **🔄** Updated 2026-11-03  
 **👤** YeaChan Heo — Sionic AI engineer, focused on multi-agent team orchestration
 
 > Team-oriented multi-agent orchestration system for Claude Code. TypeScript implementation, focused on team-level multi-agent collaboration for Claude Code.
@@ -335,7 +335,7 @@
 ## 24. esengine/DeepSeek-Reasonix (36k ⭐)
 
 **🔗** https://github.com/esengine/DeepSeek-Reasonix  
-**🍴** Forks 2.5k | **🔄** Updated 2026-11-01  
+**🍴** Forks 2.5k | **🔄** Updated 2026-11-03  
 **👤** esengine — open-source developer
 
 > >>>>>> 045f6b5 (chore: update harness-top-stars 2026-07-08)
@@ -347,7 +347,7 @@
 ## 25. conductor-oss/conductor (32k ⭐)
 
 **🔗** https://github.com/conductor-oss/conductor  
-**🍴** Forks 1k | **🔄** Updated 2026-10-31  
+**🍴** Forks 1.1k | **🔄** Updated 2026-11-02  
 **👤** Conductor OSS — open-source workflow engine project, derived from Netflix Conductor
 
 > Event-driven agentic workflow engine providing durable, highly resilient execution for applications and AI Agents. Java implementation.
@@ -359,7 +359,7 @@
 ## 26. e2b-dev/awesome-ai-agents (31k ⭐)
 
 **🔗** https://github.com/e2b-dev/awesome-ai-agents  
-**🍴** Forks 3.7k | **🔄** Updated 2026-08-21  
+**🍴** Forks 3.8k | **🔄** Updated 2026-08-21  
 **👤** E2B — AI sandbox execution infrastructure company, focused on secure code execution isolation
 
 > Curated list of AI autonomous agents. Comprehensive collection of AI Agent projects.
@@ -383,7 +383,7 @@
 ## 28. Kilo-Org/kilocode (28k ⭐)
 
 **🔗** https://github.com/Kilo-Org/kilocode  
-**🍴** Forks 3.3k | **🔄** Updated 2026-10-31  
+**🍴** Forks 3.3k | **🔄** Updated 2026-11-03  
 **👤** Kilo-Org — open-source developer
 
 > Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
@@ -443,7 +443,7 @@
 ## 33. different-ai/openwork (24k ⭐)
 
 **🔗** https://github.com/different-ai/openwork  
-**🍴** Forks 2.5k | **🔄** Updated 2026-10-31  
+**🍴** Forks 2.5k | **🔄** Updated 2026-11-03  
 **👤** Different AI — team behind the OpenWork open-source AI workflow platform
 
 > Open-source cross-platform AI workflow desktop app and MCP layer for reusing skills, MCPs, and connected services across Codex, Claude Code, Cursor, teams, and machines.
@@ -467,7 +467,7 @@
 ## 35. 1jehuang/jcode (21k ⭐)
 
 **🔗** https://github.com/1jehuang/jcode  
-**🍴** Forks 2.5k | **🔄** Updated 2026-11-01  
+**🍴** Forks 2.5k | **🔄** Updated 2026-11-03  
 **👤** Jeremy Huang (1jehuang) — creator of the jcode coding agent
 
 > Rust-based terminal coding-agent harness with a TUI, MCP integration, and multi-model support for intelligent coding tasks in local projects.
@@ -479,7 +479,7 @@
 ## 36. chenhg5/cc-connect (16k ⭐)
 
 **🔗** https://github.com/chenhg5/cc-connect  
-**🍴** Forks 1.7k | **🔄** Updated 2026-10-29  
+**🍴** Forks 1.7k | **🔄** Updated 2026-11-01  
 **👤** chenhg5 — open-source developer
 
 > >>>>>> 045f6b5 (chore: update harness-top-stars 2026-07-08)
@@ -503,7 +503,7 @@
 ## 38. yc-software/qm (16k ⭐)
 
 **🔗** https://github.com/yc-software/qm  
-**🍴** Forks 1.9k | **🔄** Updated 2026-11-01  
+**🍴** Forks 1.9k | **🔄** Updated 2026-11-03  
 **👤** Y Combinator (yc-software) — team behind the QM collaborative agent harness
 
 > Multiplayer agent harness for teams across Slack and the web, with personal and shared scopes, scoped memory and permissions, durable sandboxes, background work, and pluggable coding-agent harnesses.
@@ -515,7 +515,7 @@
 ## 39. mindfold-ai/Trellis (15k ⭐)
 
 **🔗** https://github.com/mindfold-ai/Trellis  
-**🍴** Forks 879 | **🔄** Updated 2026-09-29  
+**🍴** Forks 882 | **🔄** Updated 2026-09-29  
 **👤** mindfold-ai — open-source developer
 
 > >>>>>> 045f6b5 (chore: update harness-top-stars 2026-07-08)
@@ -527,7 +527,7 @@
 ## 40. livekit/agents (15k ⭐)
 
 **🔗** https://github.com/livekit/agents  
-**🍴** Forks 4k | **🔄** Updated 2026-10-31  
+**🍴** Forks 4.1k | **🔄** Updated 2026-11-02  
 **👤** LiveKit — open-source WebRTC and realtime AI infrastructure team
 
 > Server-side framework for realtime voice and multimodal AI agents, integrating STT, LLMs, TTS, WebRTC, telephony, job scheduling, MCP, and testing.
@@ -539,7 +539,7 @@
 ## 41. lsdefine/GenericAgent (14k ⭐)
 
 **🔗** https://github.com/lsdefine/GenericAgent  
-**🍴** Forks 1.7k | **🔄** Updated 2026-10-31  
+**🍴** Forks 1.7k | **🔄** Updated 2026-11-02  
 **👤** lsdefine — open-source developer
 
 > Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
@@ -564,39 +564,39 @@
 ### 🦞 Harness Frameworks & Runtimes
 
 - [openclaw](#1-openclawopenclaw-394k-) — Your own personal AI assistant
-- [ECC](#2-affaan-mecc-294k-) — Full-stack agent harness performance optimization system
+- [ECC](#2-affaan-mecc-296k-) — Full-stack agent harness performance optimization system
 - [opencode](#5-anomalycoopencode-224k-) — Open-source coding agent, terminal-driven intelligent code a…
 - [claude-code](#7-anthropicsclaude-code-154k-) — Claude Code is an agentic coding tool running in your termin…
-- [gstack](#9-garrytangstack-138k-) — Garry Tan's complete Claude Code setup: 23 opinionated tools…
-- [pi](#11-earendil-workspi-119k-) — AI agent toolkit: coding agent CLI, unified LLM API, TUI & W…
+- [gstack](#9-garrytangstack-139k-) — Garry Tan's complete Claude Code setup: 23 opinionated tools…
+- [pi](#11-earendil-workspi-120k-) — AI agent toolkit: coding agent CLI, unified LLM API, TUI & W…
 - [deer-flow](#13-bytedancedeer-flow-85k-) — Open-source long-horizon SuperAgent harness for research, co…
 - [learn-claude-code](#15-shareai-lablearn-claude-code-80k-) — Bash is all you need — a nano claude code-style Agent Harnes…
 - [oh-my-openagent](#17-code-yeongyuoh-my-openagent-71k-) — omo: the best Agent Harness (formerly oh-my-opencode)
 - [claude-code-best-practice](#18-shanraisshanclaude-code-best-practice-68k-) — From vibe coding to agentic engineering — practice makes cla…
-- [oh-my-claudecode](#23-yeachan-heooh-my-claudecode-40k-) — Team-oriented multi-agent orchestration system for Claude Co…
+- [oh-my-claudecode](#23-yeachan-heooh-my-claudecode-41k-) — Team-oriented multi-agent orchestration system for Claude Co…
 - [kilocode](#28-kilo-orgkilocode-28k-) — Kilo is the all-in-one agentic engineering platform
 - [DeepInfer](#32-deepseek-aideepinfer-25k-) — DeepSeek's open-source inference framework provides offline …
 - [OpenHarness](#37-hkudsopenharness-16k-) — "OpenHarness: Open Agent Harness with a Built-in Personal Ag…
 
 ### 🔀 Multi-Agent Orchestration
 
-- [ECC](#2-affaan-mecc-294k-) — Full-stack agent harness performance optimization system
-- [deepseek-harness](#3-deepseek-aideepseek-harness-267k-) — DeepSeek's open-source agent harness, built on Cordis around…
-- [hermes-agent](#4-nousresearchhermes-agent-259k-) — An Agent that grows with you
+- [ECC](#2-affaan-mecc-296k-) — Full-stack agent harness performance optimization system
+- [deepseek-harness](#3-deepseek-aideepseek-harness-270k-) — DeepSeek's open-source agent harness, built on Cordis around…
+- [hermes-agent](#4-nousresearchhermes-agent-260k-) — An Agent that grows with you
 - [opencode](#5-anomalycoopencode-224k-) — Open-source coding agent, terminal-driven intelligent code a…
 - [agency-agents](#6-msitarzewskiagency-agents-166k-) — A complete AI agency at your fingertips
 - [claude-code](#7-anthropicsclaude-code-154k-) — Claude Code is an agentic coding tool running in your termin…
 - [codex](#10-openaicodex-133k-) — OpenAI's lightweight terminal coding agent for understanding…
-- [pi](#11-earendil-workspi-119k-) — AI agent toolkit: coding agent CLI, unified LLM API, TUI & W…
-- [impeccable](#12-pbakausimpeccable-98k-) — Frontend design language and quality toolkit for AI coding a…
+- [pi](#11-earendil-workspi-120k-) — AI agent toolkit: coding agent CLI, unified LLM API, TUI & W…
+- [impeccable](#12-pbakausimpeccable-101k-) — Frontend design language and quality toolkit for AI coding a…
 - [deer-flow](#13-bytedancedeer-flow-85k-) — Open-source long-horizon SuperAgent harness for research, co…
-- [ruflo](#14-ruvnetruflo-80k-) — Leading Agent orchestration platform for Claude
+- [ruflo](#14-ruvnetruflo-81k-) — Leading Agent orchestration platform for Claude
 - [learn-claude-code](#15-shareai-lablearn-claude-code-80k-) — Bash is all you need — a nano claude code-style Agent Harnes…
 - [oh-my-openagent](#17-code-yeongyuoh-my-openagent-71k-) — omo: the best Agent Harness (formerly oh-my-opencode)
 - [claude-code-best-practice](#18-shanraisshanclaude-code-best-practice-68k-) — From vibe coding to agentic engineering — practice makes cla…
 - [ai-agent-book](#19-bojieliai-agent-book-57k-) — Open-source home for Understanding AI Agents — Design Princi…
 - [agno](#21-agno-agiagno-43k-) — Python framework and runtime for building, running, and mana…
-- [oh-my-claudecode](#23-yeachan-heooh-my-claudecode-40k-) — Team-oriented multi-agent orchestration system for Claude Co…
+- [oh-my-claudecode](#23-yeachan-heooh-my-claudecode-41k-) — Team-oriented multi-agent orchestration system for Claude Co…
 - [DeepSeek-Reasonix](#24-esenginedeepseek-reasonix-36k-) — >>>>>> 045f6b5 (chore: update harness-top-stars 2026-07-08)
 - [conductor](#25-conductor-ossconductor-32k-) — Event-driven agentic workflow engine providing durable, high…
 - [awesome-ai-agents](#26-e2b-devawesome-ai-agents-31k-) — Curated list of AI autonomous agents
@@ -618,9 +618,9 @@
 
 ### 📋 Workflows & Spec-Driven
 
-- [ECC](#2-affaan-mecc-294k-) — Full-stack agent harness performance optimization system
-- [spec-kit](#8-githubspec-kit-144k-) — 💫 Spec-Driven Development starter toolkit
-- [impeccable](#12-pbakausimpeccable-98k-) — Frontend design language and quality toolkit for AI coding a…
+- [ECC](#2-affaan-mecc-296k-) — Full-stack agent harness performance optimization system
+- [spec-kit](#8-githubspec-kit-146k-) — 💫 Spec-Driven Development starter toolkit
+- [impeccable](#12-pbakausimpeccable-101k-) — Frontend design language and quality toolkit for AI coding a…
 - [learn-claude-code](#15-shareai-lablearn-claude-code-80k-) — Bash is all you need — a nano claude code-style Agent Harnes…
 - [OpenSpec](#16-fission-aiopenspec-74k-) — Spec-Driven Development (SDD) framework for AI coding assist…
 - [BMAD-METHOD](#20-bmad-code-orgbmad-method-55k-) — Breakthrough Method for Agile AI Driven Development
@@ -629,7 +629,7 @@
 ### 🌐 Ecosystem & Best Practices
 
 - [claude-code-best-practice](#18-shanraisshanclaude-code-best-practice-68k-) — From vibe coding to agentic engineering — practice makes cla…
-- [openhuman](#22-tinyhumansaiopenhuman-42k-) — Your personal AI super intelligence
+- [openhuman](#22-tinyhumansaiopenhuman-43k-) — Your personal AI super intelligence
 - [awesome-ai-agents](#26-e2b-devawesome-ai-agents-31k-) — Curated list of AI autonomous agents
 - [agents.md](#31-agentsmdagents.md-25k-) — AGENTS
 
@@ -651,4 +651,4 @@ Linked projects remain under their respective upstream licenses.
 
 ---
 
-*Curated by wind8 | 2026-11-01*
+*Curated by wind8 | 2026-11-03*
