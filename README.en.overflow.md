@@ -3,30 +3,30 @@
 [中文](./README.overflow.md) | **English** · [Formal List](./README.en.md)
 
 > Star List entries beyond the formal cap of 42, ranked by total GitHub Stars  
-> Source: [wind8ai harness list](https://github.com/stars/wind8ai/lists/harness) · Updated: 2026-11-08
+> Source: [wind8ai harness list](https://github.com/stars/wind8ai/lists/harness) · Updated: 2026-11-13
 
 ---
 
 ## Contents
 
-01. [open-gsd/gsd-core (11k ⭐)](#1-open-gsdgsd-core-11k-)
+01. [holaboss-ai/holaOS (11k ⭐)](#1-holaboss-aiholaos-11k-)
 02. [langchain-ai/open-swe (11k ⭐)](#2-langchain-aiopen-swe-11k-)
 03. [aden-hive/hive (11k ⭐)](#3-aden-hivehive-11k-)
 04. [diet103/claude-code-infrastructure-showcase (10k ⭐)](#4-diet103claude-code-infrastructure-showcase-10k-)
-05. [cordiverse/cordis (9.8k ⭐)](#5-cordiversecordis-98k-)
+05. [cordiverse/cordis (9.9k ⭐)](#5-cordiversecordis-99k-)
 06. [EvoMap/evolver (8.7k ⭐)](#6-evomapevolver-87k-)
 07. [MoonshotAI/kimi-code (8.2k ⭐)](#7-moonshotaikimi-code-82k-)
 08. [generalaction/emdash (6.2k ⭐)](#8-generalactionemdash-62k-)
 09. [microsoft/CUAWright (6.1k ⭐)](#9-microsoftcuawright-61k-)
 10. [SenteLabsAI/OpenExecutive (5.8k ⭐)](#10-sentelabsaiopenexecutive-58k-)
-11. [chaitin/MonkeyCode (5.1k ⭐)](#11-chaitinmonkeycode-51k-)
+11. [chaitin/MonkeyCode (5.2k ⭐)](#11-chaitinmonkeycode-52k-)
 12. [thirdlayerinc/autoagent (4.6k ⭐)](#12-thirdlayerincautoagent-46k-)
 13. [lintsinghua/claude-code-book (4.4k ⭐)](#13-lintsinghuaclaude-code-book-44k-)
 14. [cosmicstack-labs/mercury-agent (3.9k ⭐)](#14-cosmicstack-labsmercury-agent-39k-)
 15. [wquguru/harness-books (3.2k ⭐)](#15-wquguruharness-books-32k-)
-16. [AMAP-ML/SkillClaw (2.7k ⭐)](#16-amap-mlskillclaw-27k-)
-17. [org2AI/ORG2 (2.6k ⭐)](#17-org2aiorg2-26k-)
-18. [shepherd-agents/shepherd (2.5k ⭐)](#18-shepherd-agentsshepherd-25k-)
+16. [AMAP-ML/SkillClaw (2.8k ⭐)](#16-amap-mlskillclaw-28k-)
+17. [shepherd-agents/shepherd (2.6k ⭐)](#17-shepherd-agentsshepherd-26k-)
+18. [org2AI/ORG2 (2.6k ⭐)](#18-org2aiorg2-26k-)
 19. [donvito/codex-astra-luna-orchestrator (1.7k ⭐)](#19-donvitocodex-astra-luna-orchestrator-17k-)
 20. [ZhangHanDong/harness-engineering-from-cc-to-ai-coding (1.5k ⭐)](#20-zhanghandongharness-engineering-from-cc-to-ai-coding-15k-)
 21. [bigcode-project/bigcode-evaluation-harness (1.1k ⭐)](#21-bigcode-projectbigcode-evaluation-harness-11k-)
@@ -34,22 +34,22 @@
 
 ---
 
-## 1. open-gsd/gsd-core (11k ⭐)
+## 1. holaboss-ai/holaOS (11k ⭐)
 
-**🔗** https://github.com/open-gsd/gsd-core  
-**🍴** Forks 816 | **🔄** Updated 2026-11-07  
-**👤** open-gsd — open-source developer
+**🔗** https://github.com/holaboss-ai/holaOS  
+**🍴** Forks 726 | **🔄** Updated 2026-11-11  
+**👤** holaboss-ai — open-source developer
 
-> Git. Ship. Done - Core
+> Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
 
-**Matched Capabilities**: 🤖 Agent Integration · 📋 Spec-Driven · 🔀 Multi-Agent Orchestration · 🦞 Harness Runtime
+**Matched Capabilities**: 🤖 Agent Integration · 🔀 Multi-Agent Orchestration
 
 ---
 
 ## 2. langchain-ai/open-swe (11k ⭐)
 
 **🔗** https://github.com/langchain-ai/open-swe  
-**🍴** Forks 1.3k | **🔄** Updated 2026-11-08  
+**🍴** Forks 1.3k | **🔄** Updated 2026-11-13  
 **👤** LangChain — open-swe asynchronous coding agent team
 
 > LangChain's open-source asynchronous coding agent for long-running autonomous issue and PR workflows.
@@ -82,10 +82,10 @@
 
 ---
 
-## 5. cordiverse/cordis (9.8k ⭐)
+## 5. cordiverse/cordis (9.9k ⭐)
 
 **🔗** https://github.com/cordiverse/cordis  
-**🍴** Forks 633 | **🔄** Updated 2026-11-07  
+**🍴** Forks 638 | **🔄** Updated 2026-11-13  
 **👤** Cordiverse — maintainers of the Cordis spatiotemporal-composability framework
 
 > TypeScript meta-framework for spatiotemporal composability, organizing dynamically composable services and lifecycles through plugins and underpinning DeepSeek Harness's everything-is-a-plugin architecture; its API remains under active development.
@@ -97,7 +97,7 @@
 ## 6. EvoMap/evolver (8.7k ⭐)
 
 **🔗** https://github.com/EvoMap/evolver  
-**🍴** Forks 848 | **🔄** Updated 2026-11-08  
+**🍴** Forks 850 | **🔄** Updated 2026-11-12  
 **👤** EvoMap — open-source developer
 
 > The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
@@ -109,7 +109,7 @@
 ## 7. MoonshotAI/kimi-code (8.2k ⭐)
 
 **🔗** https://github.com/MoonshotAI/kimi-code  
-**🍴** Forks 1.4k | **🔄** Updated 2026-11-06  
+**🍴** Forks 1.4k | **🔄** Updated 2026-11-13  
 **👤** Moonshot AI — team behind Kimi Code
 
 > Moonshot AI's Kimi Code CLI, providing a terminal entry point and extensible coding environment for next-generation agent workflows.
@@ -121,7 +121,7 @@
 ## 8. generalaction/emdash (6.2k ⭐)
 
 **🔗** https://github.com/generalaction/emdash  
-**🍴** Forks 664 | **🔄** Updated 2026-11-06  
+**🍴** Forks 664 | **🔄** Updated 2026-11-10  
 **👤** General Action — team behind the Emdash open-source agentic development environment
 
 > Open-source agentic development environment for running multiple coding agents in parallel across providers, with workspace isolation and orchestration for team development.
@@ -145,7 +145,7 @@
 ## 10. SenteLabsAI/OpenExecutive (5.8k ⭐)
 
 **🔗** https://github.com/SenteLabsAI/OpenExecutive  
-**🍴** Forks 626 | **🔄** Updated 2026-11-07  
+**🍴** Forks 630 | **🔄** Updated 2026-11-12  
 **👤** Sente Labs AI — maintainers of the OpenExecutive multi-agent executive team
 
 > AI-powered virtual executive team that presents one coherent executive persona backed by eight specialist agents, with a FastAPI backend and Next.js interface.
@@ -154,10 +154,10 @@
 
 ---
 
-## 11. chaitin/MonkeyCode (5.1k ⭐)
+## 11. chaitin/MonkeyCode (5.2k ⭐)
 
 **🔗** https://github.com/chaitin/MonkeyCode  
-**🍴** Forks 767 | **🔄** Updated 2026-11-06  
+**🍴** Forks 779 | **🔄** Updated 2026-11-13  
 **👤** chaitin — open-source developer
 
 > AI coding platform for teams
@@ -181,7 +181,7 @@
 ## 13. lintsinghua/claude-code-book (4.4k ⭐)
 
 **🔗** https://github.com/lintsinghua/claude-code-book  
-**🍴** Forks 847 | **🔄** Updated 2026-11-01  
+**🍴** Forks 848 | **🔄** Updated 2026-11-01  
 **👤** lintsinghua — open-source developer
 
 > 《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：
@@ -193,7 +193,7 @@
 ## 14. cosmicstack-labs/mercury-agent (3.9k ⭐)
 
 **🔗** https://github.com/cosmicstack-labs/mercury-agent  
-**🍴** Forks 398 | **🔄** Updated 2026-11-07  
+**🍴** Forks 397 | **🔄** Updated 2026-11-13  
 **👤** cosmicstack-labs — open-source developer
 
 > Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.
@@ -205,7 +205,7 @@
 ## 15. wquguru/harness-books (3.2k ⭐)
 
 **🔗** https://github.com/wquguru/harness-books  
-**🍴** Forks 383 | **🔄** Updated 2026-04-19  
+**🍴** Forks 382 | **🔄** Updated 2026-04-19  
 **👤** wquguru — open-source developer
 
 > 📚 Two books on harness engineering — the design philosophies behind Claude Code & Codex: constraints, query loops, context governance, multi-agent verification. harness-books.agentway.dev
@@ -214,10 +214,10 @@
 
 ---
 
-## 16. AMAP-ML/SkillClaw (2.7k ⭐)
+## 16. AMAP-ML/SkillClaw (2.8k ⭐)
 
 **🔗** https://github.com/AMAP-ML/SkillClaw  
-**🍴** Forks 280 | **🔄** Updated 2026-10-21  
+**🍴** Forks 281 | **🔄** Updated 2026-10-21  
 **👤** AMAP-ML — open-source developer
 
 > Let Skills Evolve Collectively with Agentic Evolver
@@ -226,22 +226,10 @@
 
 ---
 
-## 17. org2AI/ORG2 (2.6k ⭐)
-
-**🔗** https://github.com/org2AI/ORG2  
-**🍴** Forks 126 | **🔄** Updated 2026-11-03  
-**👤** ORG2 AI — team building agent-friendly development environments
-
-> System of record for how agents build software, with a built-in Rust harness and 20-plus CLIs for reviewable, local-first, reliable execution.
-
-**Matched Capabilities**: 🤖 Agent Integration · 🔀 Multi-Agent Orchestration · 🦞 Harness Runtime
-
----
-
-## 18. shepherd-agents/shepherd (2.5k ⭐)
+## 17. shepherd-agents/shepherd (2.6k ⭐)
 
 **🔗** https://github.com/shepherd-agents/shepherd  
-**🍴** Forks 219 | **🔄** Updated 2026-09-09  
+**🍴** Forks 227 | **🔄** Updated 2026-09-09  
 **👤** Shepherd Agents — team behind the Shepherd reversible agent-execution framework
 
 > Early-stage agent framework for inspectable, reversible, and supervised execution, recording durable traces that can be reviewed, forked, replayed, and reverted before workspace changes are accepted.
@@ -250,10 +238,22 @@
 
 ---
 
+## 18. org2AI/ORG2 (2.6k ⭐)
+
+**🔗** https://github.com/org2AI/ORG2  
+**🍴** Forks 125 | **🔄** Updated 2026-11-03  
+**👤** ORG2 AI — team building agent-friendly development environments
+
+> System of record for how agents build software, with a built-in Rust harness and 20-plus CLIs for reviewable, local-first, reliable execution.
+
+**Matched Capabilities**: 🤖 Agent Integration · 🔀 Multi-Agent Orchestration · 🦞 Harness Runtime
+
+---
+
 ## 19. donvito/codex-astra-luna-orchestrator (1.7k ⭐)
 
 **🔗** https://github.com/donvito/codex-astra-luna-orchestrator  
-**🍴** Forks 141 | **🔄** Updated 2026-10-01  
+**🍴** Forks 142 | **🔄** Updated 2026-10-01  
 **👤** Melvin Vivas (donvito) — engineer focused on AI agents and local open-source models
 
 > Configurable multi-agent Codex setup that pins Astra and Luna to orchestration, execution, and independent-review roles for Plus or Pro plans, with concurrency limits, installers, and workflow guides.
@@ -265,7 +265,7 @@
 ## 20. ZhangHanDong/harness-engineering-from-cc-to-ai-coding (1.5k ⭐)
 
 **🔗** https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding  
-**🍴** Forks 274 | **🔄** Updated 2026-04-10  
+**🍴** Forks 275 | **🔄** Updated 2026-04-10  
 **👤** ZhangHanDong — open-source developer
 
 > Harness Engineering From Claude Code source code to AI Coding
@@ -302,14 +302,14 @@
 ### 🦞 Harness Frameworks & Runtimes
 
 - [claude-code-infrastructure-showcase](#4-diet103claude-code-infrastructure-showcase-10k-) — Claude Code infrastructure examples showing reusable local-d…
-- [cordis](#5-cordiversecordis-98k-) — TypeScript meta-framework for spatiotemporal composability, …
+- [cordis](#5-cordiversecordis-99k-) — TypeScript meta-framework for spatiotemporal composability, …
 - [OpenExecutive](#10-sentelabsaiopenexecutive-58k-) — AI-powered virtual executive team that presents one coherent…
 - [claude-code-book](#13-lintsinghuaclaude-code-book-44k-) — 《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude…
 - [codex-astra-luna-orchestrator](#19-donvitocodex-astra-luna-orchestrator-17k-) — Configurable multi-agent Codex setup that pins Astra and Lun…
 
 ### 🔀 Multi-Agent Orchestration
 
-- [gsd-core](#1-open-gsdgsd-core-11k-) — Git
+- [holaOS](#1-holaboss-aiholaos-11k-) — Open-source All in One AI agent workspace
 - [open-swe](#2-langchain-aiopen-swe-11k-) — LangChain's open-source asynchronous coding agent for long-r…
 - [hive](#3-aden-hivehive-11k-) — Multi-Agent Harness for Production AI
 - [claude-code-infrastructure-showcase](#4-diet103claude-code-infrastructure-showcase-10k-) — Claude Code infrastructure examples showing reusable local-d…
@@ -321,21 +321,17 @@
 - [claude-code-book](#13-lintsinghuaclaude-code-book-44k-) — 《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude…
 - [mercury-agent](#14-cosmicstack-labsmercury-agent-39k-) — Soul-driven AI agent with permission-hardened tools, token b…
 - [harness-books](#15-wquguruharness-books-32k-) — 📚 Two books on harness engineering — the design philosophies…
-- [SkillClaw](#16-amap-mlskillclaw-27k-) — Let Skills Evolve Collectively with Agentic Evolver
-- [ORG2](#17-org2aiorg2-26k-) — System of record for how agents build software, with a built…
-- [shepherd](#18-shepherd-agentsshepherd-25k-) — Early-stage agent framework for inspectable, reversible, and…
+- [SkillClaw](#16-amap-mlskillclaw-28k-) — Let Skills Evolve Collectively with Agentic Evolver
+- [shepherd](#17-shepherd-agentsshepherd-26k-) — Early-stage agent framework for inspectable, reversible, and…
+- [ORG2](#18-org2aiorg2-26k-) — System of record for how agents build software, with a built…
 - [codex-astra-luna-orchestrator](#19-donvitocodex-astra-luna-orchestrator-17k-) — Configurable multi-agent Codex setup that pins Astra and Lun…
 - [bigcode-evaluation-harness](#21-bigcode-projectbigcode-evaluation-harness-11k-) — A framework for the evaluation of autoregressive code genera…
 - [frameworks](#22-caldisframeworks-18-) — Curated software-design framework collection for engineers, …
 
-### 📋 Workflows & Spec-Driven
-
-- [gsd-core](#1-open-gsdgsd-core-11k-) — Git
-
 ### 🌐 Ecosystem & Best Practices
 
 - [CUAWright](#9-microsoftcuawright-61k-) — Microsoft's open-source SWE-style browser and desktop agent …
-- [MonkeyCode](#11-chaitinmonkeycode-51k-) — AI coding platform for teams
+- [MonkeyCode](#11-chaitinmonkeycode-52k-) — AI coding platform for teams
 - [claude-code-book](#13-lintsinghuaclaude-code-book-44k-) — 《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude…
 - [harness-engineering-from-cc-to-ai-coding](#20-zhanghandongharness-engineering-from-cc-to-ai-coding-15k-) — Harness Engineering From Claude Code source code to AI Codin…
 
@@ -357,4 +353,4 @@ Linked projects remain under their respective upstream licenses.
 
 ---
 
-*Curated by wind8 | 2026-11-08*
+*Curated by wind8 | 2026-11-13*
