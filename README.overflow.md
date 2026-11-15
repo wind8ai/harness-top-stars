@@ -3,7 +3,7 @@
 **中文** | [English](./README.en.overflow.md) · [正式榜](./README.md)
 
 > Star List 中超出正式榜 42 个上限的条目，按 GitHub Star 总数降序  
-> 来源：[wind8ai 的 harness 列表](https://github.com/stars/wind8ai/lists/harness) · 更新：2026-11-13
+> 来源：[wind8ai 的 harness 列表](https://github.com/stars/wind8ai/lists/harness) · 更新：2026-11-15
 
 ---
 
@@ -16,7 +16,7 @@
 05. [cordiverse/cordis (9.9k ⭐)](#5-cordiversecordis-99k-)
 06. [EvoMap/evolver (8.7k ⭐)](#6-evomapevolver-87k-)
 07. [MoonshotAI/kimi-code (8.2k ⭐)](#7-moonshotaikimi-code-82k-)
-08. [generalaction/emdash (6.2k ⭐)](#8-generalactionemdash-62k-)
+08. [generalaction/emdash (6.3k ⭐)](#8-generalactionemdash-63k-)
 09. [microsoft/CUAWright (6.1k ⭐)](#9-microsoftcuawright-61k-)
 10. [SenteLabsAI/OpenExecutive (5.8k ⭐)](#10-sentelabsaiopenexecutive-58k-)
 11. [chaitin/MonkeyCode (5.2k ⭐)](#11-chaitinmonkeycode-52k-)
@@ -37,7 +37,7 @@
 ## 1. holaboss-ai/holaOS (11k ⭐)
 
 **🔗** https://github.com/holaboss-ai/holaOS  
-**🍴** Fork 726 | **🔄** Updated 2026-11-11  
+**🍴** Fork 726 | **🔄** Updated 2026-11-13  
 **👤** holaboss-ai — 开源开发者
 
 > 本地优先的超级工作 Agent，数分钟内学习你的工作上下文并持续记忆，适合个人知识工作者日常协作。
@@ -49,7 +49,7 @@
 ## 2. langchain-ai/open-swe (11k ⭐)
 
 **🔗** https://github.com/langchain-ai/open-swe  
-**🍴** Fork 1.3k | **🔄** Updated 2026-11-13  
+**🍴** Fork 1.3k | **🔄** Updated 2026-11-15  
 **👤** LangChain — open-swe 异步 coding agent 团队
 
 > LangChain 开源异步 coding agent，支持长周期自主 issue/PR 工作流与 sandbox 执行。
@@ -85,7 +85,7 @@
 ## 5. cordiverse/cordis (9.9k ⭐)
 
 **🔗** https://github.com/cordiverse/cordis  
-**🍴** Fork 638 | **🔄** Updated 2026-11-13  
+**🍴** Fork 638 | **🔄** Updated 2026-11-14  
 **👤** Cordiverse — Cordis 时空可组合框架维护团队
 
 > 面向时空可组合性的 TypeScript 元框架，以插件机制组织可动态组合的服务与生命周期，是 DeepSeek Harness“一切皆插件”架构的底层基础；当前 API 仍在快速演进。
@@ -97,7 +97,7 @@
 ## 6. EvoMap/evolver (8.7k ⭐)
 
 **🔗** https://github.com/EvoMap/evolver  
-**🍴** Fork 850 | **🔄** Updated 2026-11-12  
+**🍴** Fork 852 | **🔄** Updated 2026-11-12  
 **👤** EvoMap — 开源开发者
 
 > GEP 驱动的 AI Agent 自进化引擎，以 Genes、Capsules、Events 实现可审计的 agent 进化与能力迭代。
@@ -109,7 +109,7 @@
 ## 7. MoonshotAI/kimi-code (8.2k ⭐)
 
 **🔗** https://github.com/MoonshotAI/kimi-code  
-**🍴** Fork 1.4k | **🔄** Updated 2026-11-13  
+**🍴** Fork 1.4k | **🔄** Updated 2026-11-15  
 **👤** Moonshot AI — Kimi Code 团队
 
 > Moonshot AI 的 Kimi Code CLI，为新一代 Agent 工作流提供终端入口和可扩展的编码执行环境。
@@ -118,10 +118,10 @@
 
 ---
 
-## 8. generalaction/emdash (6.2k ⭐)
+## 8. generalaction/emdash (6.3k ⭐)
 
 **🔗** https://github.com/generalaction/emdash  
-**🍴** Fork 664 | **🔄** Updated 2026-11-10  
+**🍴** Fork 665 | **🔄** Updated 2026-11-10  
 **👤** General Action — Emdash 开源 Agentic Development Environment 团队
 
 > 开源 Agentic Development Environment，可并行运行多个 coding agent、接入不同模型提供方，并以工作区隔离和编排能力支持团队开发。
@@ -145,7 +145,7 @@
 ## 10. SenteLabsAI/OpenExecutive (5.8k ⭐)
 
 **🔗** https://github.com/SenteLabsAI/OpenExecutive  
-**🍴** Fork 630 | **🔄** Updated 2026-11-12  
+**🍴** Fork 630 | **🔄** Updated 2026-11-14  
 **👤** Sente Labs AI — OpenExecutive 多 Agent 高管团队维护者
 
 > AI 驱动的虚拟高管团队，以统一高管角色协调八个专业 Agent，并提供 FastAPI 后端与 Next.js 界面。
@@ -157,7 +157,7 @@
 ## 11. chaitin/MonkeyCode (5.2k ⭐)
 
 **🔗** https://github.com/chaitin/MonkeyCode  
-**🍴** Fork 779 | **🔄** Updated 2026-11-13  
+**🍴** Fork 782 | **🔄** Updated 2026-11-14  
 **👤** chaitin — 开源开发者
 
 > 长亭出品的企业级在线 AI 编程平台，集成开发环境、AI 模型与任务管理，面向专业开发团队。
@@ -181,7 +181,7 @@
 ## 13. lintsinghua/claude-code-book (4.4k ⭐)
 
 **🔗** https://github.com/lintsinghua/claude-code-book  
-**🍴** Fork 848 | **🔄** Updated 2026-11-01  
+**🍴** Fork 849 | **🔄** Updated 2026-11-01  
 **👤** lintsinghua — 开源开发者
 
 > 《御舆：解码 Agent Harness》42 万字在线书，15 章从 Claude Code 对话循环到构建你自己的 Agent Harness。
@@ -193,7 +193,7 @@
 ## 14. cosmicstack-labs/mercury-agent (3.9k ⭐)
 
 **🔗** https://github.com/cosmicstack-labs/mercury-agent  
-**🍴** Fork 397 | **🔄** Updated 2026-11-13  
+**🍴** Fork 400 | **🔄** Updated 2026-11-14  
 **👤** cosmicstack-labs — 开源开发者
 
 > 带权限硬化工具、Token 预算与多渠道接入的 7×24 自主 Agent，支持 CLI 与 Telegram 远程操控。
@@ -217,7 +217,7 @@
 ## 16. AMAP-ML/SkillClaw (2.8k ⭐)
 
 **🔗** https://github.com/AMAP-ML/SkillClaw  
-**🍴** Fork 281 | **🔄** Updated 2026-10-21  
+**🍴** Fork 282 | **🔄** Updated 2026-10-21  
 **👤** AMAP-ML — 开源开发者
 
 > 让 Skills 在 Agentic Evolver 中集体进化，支持多 Agent 协同迭代与能力共享。
@@ -253,7 +253,7 @@
 ## 19. donvito/codex-astra-luna-orchestrator (1.7k ⭐)
 
 **🔗** https://github.com/donvito/codex-astra-luna-orchestrator  
-**🍴** Fork 142 | **🔄** Updated 2026-10-01  
+**🍴** Fork 143 | **🔄** Updated 2026-10-01  
 **👤** Melvin Vivas（donvito）— AI Agent 与本地模型工程师
 
 > 面向 Codex 的可配置多 Agent 工程模板，按 Plus 或 Pro 方案分别固定 Astra/Luna 的编排、执行与独立审查角色，并提供并发限制、安装脚本和场景指南。
@@ -319,7 +319,7 @@
 - [holaOS](#1-holaboss-aiholaos-11k-) — 本地优先的超级工作 Agent，数分钟内学习你的工作上下文并持续记忆，适合个人知识工作者日常协作
 - [open-swe](#2-langchain-aiopen-swe-11k-) — LangChain 开源异步 coding agent，支持长周期自主 issue/PR 工作流与 sandbox 执行
 - [kimi-code](#7-moonshotaikimi-code-82k-) — Moonshot AI 的 Kimi Code CLI，为新一代 Agent 工作流提供终端入口和可扩展的编码执行环境
-- [emdash](#8-generalactionemdash-62k-) — 开源 Agentic Development Environment，可并行运行多个 coding agent、接入不同…
+- [emdash](#8-generalactionemdash-63k-) — 开源 Agentic Development Environment，可并行运行多个 coding agent、接入不同…
 - [CUAWright](#9-microsoftcuawright-61k-) — Microsoft 开源的 SWE 风格浏览器与桌面 Agent 框架，面向长周期 Web 和计算机操作任务
 - [MonkeyCode](#11-chaitinmonkeycode-52k-) — 长亭出品的企业级在线 AI 编程平台，集成开发环境、AI 模型与任务管理，面向专业开发团队
 - [claude-code-book](#13-lintsinghuaclaude-code-book-44k-) — 《御舆：解码 Agent Harness》42 万字在线书，15 章从 Claude Code 对话循环到构建你自己的 …
@@ -349,4 +349,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-11-13*
+*由 wind8 整理 | 2026-11-15*
