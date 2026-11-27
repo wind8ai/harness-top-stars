@@ -7,6 +7,20 @@
 
 ---
 
+## ⭐ 置顶推荐
+
+<p><a href="https://orca.dev"><img src="./assets/featured/orca.png" width="48" height="48" align="left" hspace="5" alt="Orca"></a>
+<strong>Orca</strong> — 在 Slack 里把 bug 交给 Agent，让它在本机或远程环境里修复并测试。需要你介入时，手机会收到通知。<br>
+<a href="https://orca.dev"><strong>orca.dev →</strong></a> · <a href="https://github.com/stablyai/orca">stablyai/orca</a> · <strong>141k ⭐</strong><br clear="left"></p>
+<p><a href="https://paseo.sh"><img src="./assets/featured/paseo.png" width="48" height="48" align="left" hspace="5" alt="Paseo"></a>
+<strong>Paseo</strong> — 给每个 Agent 一个独立的 Git worktree，让多个任务并行推进。在桌面看代码差异，离开电脑后用手机继续跟进。<br>
+<a href="https://paseo.sh"><strong>paseo.sh →</strong></a> · <a href="https://github.com/getpaseo/paseo">getpaseo/paseo</a> · <strong>26k ⭐</strong><br clear="left"></p>
+<p><a href="https://t3.codes"><img src="./assets/featured/t3-code.png" width="48" height="48" align="left" hspace="5" alt="T3 Code"></a>
+<strong>T3 Code</strong> — 在同一条会话里让 Claude 把任务交给 Codex，用手机批准下一步操作，再从工作区查看差异、提交代码或发起 PR。<br>
+<a href="https://t3.codes"><strong>t3.codes →</strong></a> · <a href="https://github.com/pingdotgg/t3code">pingdotgg/t3code</a> · <strong>81k ⭐</strong><br clear="left"></p>
+
+---
+
 ## 目录
 
 01. [openclaw/openclaw (395k ⭐)](#1-openclawopenclaw-395k-)
@@ -506,12 +520,6 @@
 
 ---
 ## 分类索引
-
-### 📱 跨设备 Agent 工作台 · 电脑开工，手机接手
-
-- [Orca](#6-stablyaiorca-141k-) — 在 Slack 里交给 Agent 一个修复任务，需要你介入时，手机会收到通知
-- [T3 Code](#11-pingdotggt3code-81k-) — 让 Claude 把任务交给 Codex，再用手机批准下一步操作
-- [Paseo](#20-getpaseopaseo-26k-) — 给每个 Agent 一个独立的 Git worktree，在手机上跟进并行任务
 
 ### 🦞 Harness 框架与运行时
 

@@ -7,6 +7,20 @@
 
 ---
 
+## ⭐ Featured Projects
+
+<p><a href="https://orca.dev"><img src="./assets/featured/orca.png" width="48" height="48" align="left" hspace="5" alt="Orca"></a>
+<strong>Orca</strong> — Send a bug to an agent from Slack. It can work on your machine or a remote host and notify your phone when it needs you.<br>
+<a href="https://orca.dev"><strong>orca.dev →</strong></a> · <a href="https://github.com/stablyai/orca">stablyai/orca</a> · <strong>141k ⭐</strong><br clear="left"></p>
+<p><a href="https://paseo.sh"><img src="./assets/featured/paseo.png" width="48" height="48" align="left" hspace="5" alt="Paseo"></a>
+<strong>Paseo</strong> — Give each agent its own Git worktree so tasks can run in parallel. Review diffs at your desk and follow up from your phone.<br>
+<a href="https://paseo.sh"><strong>paseo.sh →</strong></a> · <a href="https://github.com/getpaseo/paseo">getpaseo/paseo</a> · <strong>26k ⭐</strong><br clear="left"></p>
+<p><a href="https://t3.codes"><img src="./assets/featured/t3-code.png" width="48" height="48" align="left" hspace="5" alt="T3 Code"></a>
+<strong>T3 Code</strong> — Hand a task from Claude to Codex in the same thread, approve the next step from your phone, then review the diff or open a pull request.<br>
+<a href="https://t3.codes"><strong>t3.codes →</strong></a> · <a href="https://github.com/pingdotgg/t3code">pingdotgg/t3code</a> · <strong>81k ⭐</strong><br clear="left"></p>
+
+---
+
 ## Contents
 
 01. [openclaw/openclaw (395k ⭐)](#1-openclawopenclaw-395k-)
@@ -506,12 +520,6 @@
 
 ---
 ## Category Index
-
-### 📱 Cross-device agent workspaces · From desk to phone
-
-- [Orca](#6-stablyaiorca-141k-) — Send a fix from Slack and get pinged when a bot needs you
-- [T3 Code](#11-pingdotggt3code-81k-) — Hand work from Claude to Codex and approve it on your phone
-- [Paseo](#20-getpaseopaseo-26k-) — Run agents in parallel worktrees and check in by phone
 
 ### 🦞 Harness Frameworks & Runtimes
 
